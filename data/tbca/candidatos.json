@@ -1,0 +1,3475 @@
+{
+  "Arroz, integral": [
+    {
+      "codigo": "BRC0016A",
+      "nome": "Arroz, integral, cozido, s/ óleo, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=xUx7kaGWvtxyEPd9EX4wAg%3D%3D"
+    },
+    {
+      "codigo": "BRC0017A",
+      "nome": "Arroz, integral, cru, Brasil (média diferentes cultivares)",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=TJHzE4CD8qj6zaG4O8XU9A%3D%3D"
+    },
+    {
+      "codigo": "BRC0210A",
+      "nome": "Arroz, integral, cozido, c/ óleo, cebola e alho, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=1Uclz9%2FYGj%2FU5u6xv8uPEA%3D%3D"
+    },
+    {
+      "codigo": "BRC0211A",
+      "nome": "Arroz, integral, cozido, c/ óleo, cebola e alho, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=KwvwXOYegrdp2s4a8AOB8w%3D%3D"
+    }
+  ],
+  "Arroz, polido": [
+    {
+      "codigo": "BRC0001A",
+      "nome": "Arroz, polido, cru, Brasil (média de diferentes cultivares)",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=IuWNWJLGLyCVKxGOsgJTsg%3D%3D"
+    },
+    {
+      "codigo": "BRC0208A",
+      "nome": "Arroz, polido, cozido, c/ óleo de soja, cebola e alho, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=qtqOHQ4EkR82Z0oZf8AKdA%3D%3D"
+    },
+    {
+      "codigo": "BRC1211A",
+      "nome": "Arroz, polido, glutionoso, cozido, s/ óleo, s/ sal (para sushi, Gohan) (dado importado)",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=KHYQ80c5Deiflo%2BIl7jbMQ%3D%3D"
+    }
+  ],
+  "Feijão, carioca": [
+    {
+      "codigo": "BRC0001T",
+      "nome": "Feijão, carioca, cozido (50% grão e 50% caldo), s/ óleo, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=pIqRrKBm8h1amgooDYSLHw%3D%3D"
+    },
+    {
+      "codigo": "BRC0002T",
+      "nome": "Feijão, carioca, cru, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=c%2Fl54eYuA4ZPVaWwfhq%2FyQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0062T",
+      "nome": "Feijão, carioca, restaurante",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=M4R4hI3EcGHGFTSGWMbL8A%3D%3D"
+    },
+    {
+      "codigo": "BRC0091T",
+      "nome": "Feijão, carioca, cozido (50% grão e 50% caldo), c/ óleo de soja, cebola e alho, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=DvQQmnmi1onQR1OUG%2FxWkA%3D%3D"
+    },
+    {
+      "codigo": "BRC0090T",
+      "nome": "Feijão, carioca, cozido (50% grão e 50% caldo), c/ óleo, cebola e alho, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=5Dc7HZxnAK9I8b9WffD3pg%3D%3D"
+    },
+    {
+      "codigo": "BRC0254T",
+      "nome": "Feijão, carioca, cozido, drenado, s/ óleo, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=DImWry2bYhAQuCdJPkzkeQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0255T",
+      "nome": "Feijão, carioca, cozido, drenado, s/ óleo, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=8osnF%2FFNSeDO23hnWwxjFQ%3D%3D"
+    }
+  ],
+  "Feijão, preto": [
+    {
+      "codigo": "BRC0008T",
+      "nome": "Feijão, preto, cozido (50% grão e 50% caldo), s/ óleo, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=2IXAgzFwNLDYhSUsIuzR%2FQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0009T",
+      "nome": "Feijão, preto, cru, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=emkmpw%2FUGTNqHJAbH4rGSw%3D%3D"
+    },
+    {
+      "codigo": "BRC0107T",
+      "nome": "Feijão, preto, cozido (50% grão e 50% caldo), c/ óleo, cebola e alho, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=215kHlI%2BcBzz5SAZAlOP5Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0108T",
+      "nome": "Feijão, preto, cozido (50% grão e 50% caldo), c/ óleo e cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=SMsMxw5Rc8otrX%2B5xQvx7w%3D%3D"
+    },
+    {
+      "codigo": "BRC0196T",
+      "nome": "Feijão, preto, cozido (50% grão e 50% caldo), c/ carne de boi, charque (jaba, carne seca, carne de sol), c/ óleo, cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=1OCfGkqgDteTY0rG6spvig%3D%3D"
+    },
+    {
+      "codigo": "BRC0197T",
+      "nome": "Feijão, preto, cozido (50% grão e 50% caldo), c/ carne de boi, charque (jaba, carne seca, carne de sol), c/ óleo, cebola e alho, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=N5ZDVqWRa8uUmfU0dao7HA%3D%3D"
+    },
+    {
+      "codigo": "BRC0214T",
+      "nome": "Feijão, preto, c/ linguiça calabresa, c/ óleo, cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=l3fFVpAugGqHNlejEqceWA%3D%3D"
+    },
+    {
+      "codigo": "BRC0215T",
+      "nome": "Feijão, preto, c/ linguiça calabresa, c/ óleo, cebola e alho, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=wXTSrK%2FVrkI4xYXmDxLtng%3D%3D"
+    },
+    {
+      "codigo": "BRC0194T",
+      "nome": "Feijão, preto, cozido (50% grão e 50% caldo), c/ carne de boi, músculo, s/ gordura, c/ óleo, cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=XOE5ZWBxwXpX%2FE5qIsiyIg%3D%3D"
+    },
+    {
+      "codigo": "BRC0195T",
+      "nome": "Feijão, preto, cozido (50% grão e 50% caldo), c/ carne de boi, músculo, s/ gordura, c/ óleo, cebola e alho, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ISPKW6KuB%2BZM2HrWIndI5Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0222T",
+      "nome": "Feijão, preto, c/ toucinho defumado (bacon), c/ óleo, cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ni3TUUrV4G%2F%2FGo8Z4VfHcg%3D%3D"
+    },
+    {
+      "codigo": "BRC0223T",
+      "nome": "Feijão, preto, c/ toucinho defumado (bacon), c/ óleo, cebola e alho, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=my3PcvjivMMbpQvH18Ez%2Bw%3D%3D"
+    },
+    {
+      "codigo": "BRC0224T",
+      "nome": "Feijão, preto, c/ beterraba, c/ óleo, cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=D38iKSVEpmTyzt0fMrrWvA%3D%3D"
+    },
+    {
+      "codigo": "BRC0225T",
+      "nome": "Feijão, preto, c/ beterraba, c/ óleo, cebola e alho, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=6DiS%2FKLFeeBQIxSUgJATWQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0183T",
+      "nome": "Feijão, preto, drenado, s/ óleo, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=0cgpqFCaptY9AZeD5n9dQw%3D%3D"
+    },
+    {
+      "codigo": "BRC0184T",
+      "nome": "Feijão, preto, drenado, s/ óleo, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=BnvkG10BFSJJk0TCr6Ua7w%3D%3D"
+    },
+    {
+      "codigo": "BRC0258T",
+      "nome": "Feijão, preto, cozido (50% grão e 50% caldo), s/ óleo, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=%2BVcNUPK3sjYOepU0hCflXA%3D%3D"
+    },
+    {
+      "codigo": "BRC0275T",
+      "nome": "Feijão, preto, cozido no vapor, s/ óleo, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=qAr8QBCZfYU4nIjUv388lw%3D%3D"
+    },
+    {
+      "codigo": "BRC0128T",
+      "nome": "Sopa, feijão, preto, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=HMaNl0DMOPJuB95qiyFpCQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0126T",
+      "nome": "Sopa, feijão, preto, c/ toucinho defumado (bacon), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=oEHhRCx2skqkiMxckc8lSg%3D%3D"
+    },
+    {
+      "codigo": "BRC0129T",
+      "nome": "Sopa, feijão, preto, c/ macarrão, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=FQHgX2BlOekKBy2QAHBpWg%3D%3D"
+    },
+    {
+      "codigo": "BRC0130T",
+      "nome": "Sopa, feijão, preto, c/ macarrão, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=E%2BMqh7uyrewTVm0kvNme1A%3D%3D"
+    },
+    {
+      "codigo": "BRC0131T",
+      "nome": "Sopa, feijão, preto, c/ macarrão, c/ vegetais, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=F9JPjij6hauqeexeF4CKAA%3D%3D"
+    },
+    {
+      "codigo": "BRC0132T",
+      "nome": "Sopa, feijão, preto, c/ macarrão, c/ legumes, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=DT7Q57F0D7V85rTimFMh4Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0133T",
+      "nome": "Sopa, feijão, preto, c/ vegetais, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=D0XObCpPD4va6Tw0SY0bJQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0134T",
+      "nome": "Sopa, feijão, preto, c/ vegetais, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=cu3sdaCEs96cSVum2Dg5XA%3D%3D"
+    }
+  ],
+  "Lentilha": [
+    {
+      "codigo": "BRC0018T",
+      "nome": "Lentilha, cozida, drenada, s/ óleo, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=tvDyZHPt6vjZm%2FNdOVIQVw%3D%3D"
+    },
+    {
+      "codigo": "BRC0019T",
+      "nome": "Lentilha, crua, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=29QP2iPTDoG%2FZGK7WyTm6g%3D%3D"
+    },
+    {
+      "codigo": "BRC0077T",
+      "nome": "Lentilha, cozida, drenada, c/ óleo de soja, cebola e alho, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=IrFkje7Bwo1wk9E%2B2V0ksA%3D%3D"
+    },
+    {
+      "codigo": "BRC0078T",
+      "nome": "Lentilha, cozida, drenada, c/ óleo, cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=TS9M4SlJbKPjQJRt%2FO7T%2BQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0120T",
+      "nome": "Lentilha, cozida, c/ toucinho defumado (bacon), c/ óleo, cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=YstatqJRyVcF7wJwhc%2Fugg%3D%3D"
+    },
+    {
+      "codigo": "BRC0121T",
+      "nome": "Lentilha, cozida, c/ linguiça calabresa, c/ óleo, cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=%2FLjNqxsaziC0086NIIQFEA%3D%3D"
+    },
+    {
+      "codigo": "BRC0256T",
+      "nome": "Lentilha, cozida, drenada, s/ óleo, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=GabRlJEKN9MbmZ%2BVZkhNMA%3D%3D"
+    },
+    {
+      "codigo": "BRC0276T",
+      "nome": "Lentilha, cozida (50% grão e 50% caldo), c/ óleo de soja, cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=1l1N25zaR0qXl%2FN4kWvsUA%3D%3D"
+    },
+    {
+      "codigo": "BRC0277T",
+      "nome": "Lentilha, cozida (50% grão e 50% caldo), c/ óleo de soja, cebola e alho, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=yty6dkmo7fkgrikXPkgVkQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0175T",
+      "nome": "Salada, lentilha, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=twz9xXPSTpSVg8SOAh%2FczA%3D%3D"
+    },
+    {
+      "codigo": "BRC0180T",
+      "nome": "Salada, lentilha, c/ azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=aCGZVuSYuTri1n00qZyWVw%3D%3D"
+    },
+    {
+      "codigo": "BRC0181T",
+      "nome": "Salada, lentilha, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=60EPYjy4XR148ScVtNqtEg%3D%3D"
+    },
+    {
+      "codigo": "BRC0528A",
+      "nome": "Arroz com lentilha, c/ arroz polido, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=qF5ldGDZcSH7bItjSUM94w%3D%3D"
+    },
+    {
+      "codigo": "BRC0529A",
+      "nome": "Arroz com lentilha, c/ arroz polido, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=5FUZV9uBeGQGTmZ1qjkkEw%3D%3D"
+    },
+    {
+      "codigo": "BRC0899A",
+      "nome": "Arroz integral com lentilha, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=xZE6gCwPHQWuhbK9s7sNoQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0900A",
+      "nome": "Arroz integral com lentilha, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Co3dQd3RN1Pop2fku%2B0Xyg%3D%3D"
+    },
+    {
+      "codigo": "BRC0245T",
+      "nome": "Quibe vegetariano com lentilha, assado, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=W3nlSfvwZz1XIRB7pTNABg%3D%3D"
+    },
+    {
+      "codigo": "BRC0246T",
+      "nome": "Quibe vegetariano com lentilha, assado, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=RoqnwSBULgN9qhauBMLkmQ%3D%3D"
+    },
+    {
+      "codigo": "BRC1225A",
+      "nome": "Baião de dois, c/ arroz polido e lentilha, c/ azeite de oliva, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=BV7tGctxLJYPx0YviPwtdw%3D%3D"
+    }
+  ],
+  "Aveia, flocos": [
+    {
+      "codigo": "BRC0024A",
+      "nome": "Aveia, flocos, finos, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=bP3l70deMwVISrW6JYIzPg%3D%3D"
+    },
+    {
+      "codigo": "BRC0025A",
+      "nome": "Aveia, flocos, finos, instantânea, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=K0FBjlBG732%2BsIV8BGR9BA%3D%3D"
+    },
+    {
+      "codigo": "BRC0026A",
+      "nome": "Aveia, flocos, finos, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=QUeZqwcspWYPvRv8B7RJzQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0105G",
+      "nome": "Vitamina, leite de vaca integral c/ banana, mamão e maçã, c/ aveia, flocos, s/ açúcar",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=cQU1Wj%2B7C%2B8yMPcXmbdgNA%3D%3D"
+    },
+    {
+      "codigo": "BRC0106G",
+      "nome": "Vitamina, leite de vaca integral c/ banana, mamão e maçã, c/ aveia, flocos, c/ açúcar",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=L11i2ZzdcI41VNuF9XKlbw%3D%3D"
+    },
+    {
+      "codigo": "BRC0110G",
+      "nome": "Iogurte, natural, c/ aveia, flocos",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=2mp%2FJhYcmWMVcSxxzqnOwA%3D%3D"
+    },
+    {
+      "codigo": "BRC0112G",
+      "nome": "Iogurte, natural, desnatado, c/ aveia, flocos",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=qgYt70SDe3BhczOefgmASw%3D%3D"
+    }
+  ],
+  "Pão, integral": [
+    {
+      "codigo": "BRC0153A",
+      "nome": "Pão, integral, c/ fibras, forma, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=uH8Fzwb1OJMt60nDDSCgxw%3D%3D"
+    },
+    {
+      "codigo": "BRC0154A",
+      "nome": "Pão, integral, c/ farinha de trigo refinada, c/ fibras, forma, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=eYAewyxTuZJUzXp70vJ8gg%3D%3D"
+    },
+    {
+      "codigo": "BRC0155A",
+      "nome": "Pão, integral, c/ farinha de trigo refinada, forma, Brasil (média de diferentes marcas)",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=7aUwICmcKE%2B%2BMkGvHIBK0Q%3D%3D"
+    }
+  ],
+  "Batata, doce": [
+    {
+      "codigo": "BRC0012B",
+      "nome": "Batata, doce, s/ casca, crua, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=g3JFHdLBcKAkvPo5fT%2FIQg%3D%3D"
+    },
+    {
+      "codigo": "BRC0042B",
+      "nome": "Batata, doce, s/ casca, cozida, drenada, s/ óleo, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=VQrZUXo%2BQv4hfrzitgAJbQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0303B",
+      "nome": "Batata, doce, s/ casca, assada, c/ óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=MgSbwf72pevgngIl%2BbpMdA%3D%3D"
+    },
+    {
+      "codigo": "BRC0298B",
+      "nome": "Batata, doce, s/ casca, cozida, drenada, c/ óleo de soja, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=izEqJ5LKy2cZial8KvNfUg%3D%3D"
+    },
+    {
+      "codigo": "BRC0299B",
+      "nome": "Batata, doce, s/ casca, cozida, drenada, c/ óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=MLNdfPg%2B6ZUl5%2FITSXcUVg%3D%3D"
+    },
+    {
+      "codigo": "BRC0304B",
+      "nome": "Batata, doce, s/ casca, frita (c/ óleo de soja), s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=J1%2FKTi8pI444EZva2KJSGg%3D%3D"
+    },
+    {
+      "codigo": "BRC0305B",
+      "nome": "Batata, doce, s/ casca, frita (c/ óleo de soja), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=uEujcP9WpElJwxHd4kTOnA%3D%3D"
+    },
+    {
+      "codigo": "BRC0300B",
+      "nome": "Batata, doce, s/ casca, sauté (c/ margarina e salsa), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Vto40QKN4AwH%2FVdqgGbkeg%3D%3D"
+    },
+    {
+      "codigo": "BRC0301B",
+      "nome": "Batata, doce, s/ casca, sauté (c/ margarina e salsa), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=RveJHXBcRxb7h67Wj5Lyiw%3D%3D"
+    },
+    {
+      "codigo": "BRC0880B",
+      "nome": "Batata, doce, s/ casca, assada, salsa, c/ manteiga, c/ pimenta-do-reino, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=tlp1FlM6l%2FwgMQeOOelT%2Bg%3D%3D"
+    },
+    {
+      "codigo": "BRC0881B",
+      "nome": "Batata, doce, s/ casca, assada, salsa, c/ manteiga, c/ pimenta-do-reino, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=dlgORMh7f3UUwosiK1mXxg%3D%3D"
+    },
+    {
+      "codigo": "BRC0882B",
+      "nome": "Batata, doce, s/ casca, assada, salsa, c/ azeite de oliva, c/ pimenta-do-reino, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=on2crXQ0iTTx9E4lpUqeEA%3D%3D"
+    },
+    {
+      "codigo": "BRC0883B",
+      "nome": "Batata, doce, s/ casca, assada, salsa, c/ azeite de oliva, c/ pimenta-do-reino, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=GWgtY8hDnmACVMkCdMKkiA%3D%3D"
+    },
+    {
+      "codigo": "BRC0885B",
+      "nome": "Batata, doce, s/ casca, assada, salsa, s/ óleo, c/ pimenta-do-reino, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=fK%2BbHNx2reHVGqxp14QPqg%3D%3D"
+    },
+    {
+      "codigo": "BRC0907B",
+      "nome": "Batata, doce, s/ casca, cozida, drenada, s/ óleo, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Trr9mPQ1qVHUOcbvh4YXDQ%3D%3D"
+    }
+  ],
+  "Frango, peito": [
+    {
+      "codigo": "BRC0112F",
+      "nome": "Carne, frango, peito, c/ pele, assada, s/ óleo, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=rRy2pImEx006A9LIVtCv6A%3D%3D"
+    },
+    {
+      "codigo": "BRC0113F",
+      "nome": "Carne, frango, peito, s/ pele, assada, s/ óleo, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=sXf9gOdKlQkr%2FDC7iNwNWg%3D%3D"
+    },
+    {
+      "codigo": "BRC0114F",
+      "nome": "Carne, frango, peito, s/ pele, grelhada, s/ óleo, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=DP42TQ4ecxn47Ihwru2%2FQw%3D%3D"
+    },
+    {
+      "codigo": "BRC0132F",
+      "nome": "Carne, frango, peito, c/ pele, crua, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=VTzbE1AO5JLdszlY%2F%2B4PEw%3D%3D"
+    },
+    {
+      "codigo": "BRC0133F",
+      "nome": "Carne, frango, peito, s/ pele, crua, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=kwFB9FQV9PjmlPMReBWy1w%3D%3D"
+    },
+    {
+      "codigo": "BRC0134F",
+      "nome": "Carne, frango, peito, filé, crua, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=bvgam3wPOhN1v3RX7QEp9A%3D%3D"
+    },
+    {
+      "codigo": "BRC0135F",
+      "nome": "Carne, frango, peito, sassami, crua, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=6Pz8gzOIunNZz1d7c%2BfFWg%3D%3D"
+    },
+    {
+      "codigo": "BRC0229F",
+      "nome": "Carne, frango, peito, à milanesa (farinha de trigo, ovo e farinha de rosca), cru, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=SDGh5opukV%2B263lOytWUxQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0194F",
+      "nome": "Carne, frango, peito, s/ pele, cozida, drenada, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=BX6z7az8SsSF9%2BkqgGvIPQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0195F",
+      "nome": "Carne, frango, peito, s/ pele, cozida, drenada, s/ óleo, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=dsp309gmQoWCo5Vsp4%2FBwQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0240F",
+      "nome": "Carne, frango, peito, s/ pele, cozida, c/ molho de tomate (tomate, c/ óleo, cebola e alho), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=FQTLiLOZL1riEpkcJHPW4Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0241F",
+      "nome": "Carne, frango, peito, s/ pele, cozida, c/ molho de tomate (molho sugo), c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=zBsFRcHRLvfxXx2%2FgsHjXw%3D%3D"
+    },
+    {
+      "codigo": "BRC0242F",
+      "nome": "Carne, frango, peito, s/ pele, cozida, c/ molho branco (leite, manteiga e farinha de trigo), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=4ygUexxelSOBDvDLrlZGDQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0243F",
+      "nome": "Carne, frango, peito, s/ pele, cozida, c/ molho branco (leite, manteiga e farinha de trigo), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=gQmw%2BxHVQW3Gm6Bh14WXig%3D%3D"
+    },
+    {
+      "codigo": "BRC0232F",
+      "nome": "Carne, frango, peito, s/ pele, cozida, drenada, c/ óleo de soja, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=mgRnKZTbKkDP8awNc%2BBBig%3D%3D"
+    },
+    {
+      "codigo": "BRC0233F",
+      "nome": "Carne, frango, peito, s/ pele, cozida, drenada, c/ óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=tsXYH8q%2FwesfqX4litljwA%3D%3D"
+    },
+    {
+      "codigo": "BRC0230F",
+      "nome": "Carne, frango, peito, s/ pele, grelhada, s/ gordura, s/ óleo, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=NIyEVHzQhUjApTx2D68a5g%3D%3D"
+    },
+    {
+      "codigo": "BRC0231F",
+      "nome": "Carne, frango, peito, c/ pele, assada, s/ óleo, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=S%2FvnkBTkXlYDeVSZW2VfiQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0234F",
+      "nome": "Carne, frango, peito, s/ pele, refogado (c/ óleo de soja, cebola e alho), s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=b%2BO5%2Fst%2F%2FpQNpTSkdIqjgQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0235F",
+      "nome": "Carne, frango, peito, s/ pele, refogado (c/ óleo, cebola e alho), c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Ogp61HVb11jGT8YgCFU5jg%3D%3D"
+    },
+    {
+      "codigo": "BRC0238F",
+      "nome": "Carne, frango, peito, filé, à milanesa (farinha de trigo, ovo e farinha de rosca), frita em imersão (c/óleo de soja), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=627YiCsFweaiqEIGBnfXvQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0239F",
+      "nome": "Carne, frango, peito, filé, à milanesa (farinha de trigo, ovo e farinha de rosca), frita em imersão (c/ óleo de soja), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=uPFlKxrdk6t2CYYwb2qaww%3D%3D"
+    },
+    {
+      "codigo": "BRC0509F",
+      "nome": "Carne, frango, peito, c/ vegetais - cenoura, chuchu, vagem, c/ óleo, cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=u35fvUiUL0Q0mGC67aE9KA%3D%3D"
+    },
+    {
+      "codigo": "BRC0510F",
+      "nome": "Carne, frango, peito, c/ vegetais - brócolis e cenoura, c/ óleo, cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Q2bFvhIfVWYNk7EPut3iIQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0511F",
+      "nome": "Carne, frango, peito, c/ batata, c/ óleo, cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=WmS8MxatvJ%2B7h4PGlfpJdA%3D%3D"
+    },
+    {
+      "codigo": "BRC0884F",
+      "nome": "Carne, frango, peito, cozida, c/ molho escuro (farinha de trigo, molho shoyu, salsa, c/ caldo de vegetais, c/ pimenta-do-reino, c/ manteiga, c/ cebola), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=vN1Ec8DtqXgKZpO92CajlQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0886F",
+      "nome": "Carne, frango, peito, cozida, c/ molho chimichurri (páprica, alho, cebolinha, salsa, vinagre, c/ azeite de oliva), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=iRKO3HH14FwMP7mDjj5%2BUA%3D%3D"
+    },
+    {
+      "codigo": "BRC0824F",
+      "nome": "Carne, frango, peito, refogada (c/ óleo, cebola e alho), c/ batata, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ybAK5Fg0Rk1X5nH0DOwcoQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0825F",
+      "nome": "Carne, frango, peito, refogada (c/ óleo, cebola e alho), c/ legumes (cenoura e vagem), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=1cR4d%2Fnrh3RBjam%2FivpA2g%3D%3D"
+    },
+    {
+      "codigo": "BRC0236F",
+      "nome": "Carne, frango, peito, s/ pele, frita (c/ óleo de soja), s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Wu8758ysFSnjHjV0exZeyA%3D%3D"
+    },
+    {
+      "codigo": "BRC0237F",
+      "nome": "Carne, frango, peito, s/ pele, frita (c/ óleo de soja), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=zjs%2FseuegRyZBQ3alsgQGw%3D%3D"
+    },
+    {
+      "codigo": "BRC0996F",
+      "nome": "Carne, frango, peito, s/ pele, grelhado, c/ óleo de soja, alho e pimenta do reino, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=o%2F0jtIKrth1x2f3mjmVmbg%3D%3D"
+    },
+    {
+      "codigo": "BRC0997F",
+      "nome": "Carne, frango, peito, s/ pele, grelhado, c/ óleo de soja, alho e pimenta do reino, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=5Pnl%2BD69T%2FPskSRX8XIzAQ%3D%3D"
+    }
+  ],
+  "Ovo, galinha": [
+    {
+      "codigo": "BRC0006J",
+      "nome": "Ovo, galinha, clara, desidratada, pasteurizada, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=%2FrN%2FVVIhKdK5JDCSKnyGJg%3D%3D"
+    },
+    {
+      "codigo": "BRC0007J",
+      "nome": "Ovo, galinha, gema, cozida/10 min, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ENS%2BUIKA7Bn4E8zFjpQKSw%3D%3D"
+    },
+    {
+      "codigo": "BRC0008J",
+      "nome": "Ovo, galinha, gema, crua, Brasil (média de várias amostras)",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=o%2BNdxDDeICA%2Ba%2BwQ0RF3Uw%3D%3D"
+    },
+    {
+      "codigo": "BRC0009J",
+      "nome": "Ovo, galinha, gema, desidratada, pasteurizada, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Q3oGpWT%2BkgwqvtGbA%2FegAQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0010J",
+      "nome": "Ovo, galinha, inteiro, cozido, s/ sal, Brasil (média de várias amostras)",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=eLfu6UDeKVunpDwry%2FKA1A%3D%3D"
+    },
+    {
+      "codigo": "BRC0011J",
+      "nome": "Ovo, galinha, inteiro, cru, Brasil (média de várias amostras)",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Mifbz4bl31rmLqlyRxQirA%3D%3D"
+    },
+    {
+      "codigo": "BRC0012J",
+      "nome": "Ovo, galinha, branco, inteiro, cru, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=jOztfzgRQu4LDZ1DUyqi%2FA%3D%3D"
+    },
+    {
+      "codigo": "BRC0013J",
+      "nome": "Ovo, galinha, vermelho, inteiro, cru, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Hf%2FE0JXARepouJ7ZOMKnOQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0014J",
+      "nome": "Ovo, galinha, integral, desidratada, pasteurizada, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=YTowSU2qNx2xsMtpyTCX%2FA%3D%3D"
+    },
+    {
+      "codigo": "BRC0016J",
+      "nome": "Ovo, galinha, orgânico, inteiro, cru, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=fm58zRi4eJE6NZC15wJV%2FA%3D%3D"
+    },
+    {
+      "codigo": "BRC0017J",
+      "nome": "Ovo, galinha, semi-orgânico, inteiro, cru, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=uzRnrvOjT1Zi0Y%2B9kqpLvw%3D%3D"
+    },
+    {
+      "codigo": "BRC0027J",
+      "nome": "Ovo, galinha, mexido, c/ margarina, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ZBnBbZFwGi%2BPdhZk6XCWVw%3D%3D"
+    },
+    {
+      "codigo": "BRC0021J",
+      "nome": "Ovo, galinha, clara, cozida/10 min., c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=DxjI5xEOYjgq%2FznNZ%2BsB0w%3D%3D"
+    },
+    {
+      "codigo": "BRC0022J",
+      "nome": "Ovo, galinha, gema, cozida/10 min., c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=3%2BRQVbjZGvZB%2BsCRnImsdw%3D%3D"
+    },
+    {
+      "codigo": "BRC0023J",
+      "nome": "Ovo, galinha, inteiro, cozido, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=sP2CXGaT24P7PJjezs9pLw%3D%3D"
+    },
+    {
+      "codigo": "BRC0015J",
+      "nome": "Ovo, galinha, inteiro, frito (c/ óleo de soja), s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=qgT16r1%2F4TZFqy4M2Wy3ZA%3D%3D"
+    },
+    {
+      "codigo": "BRC0028J",
+      "nome": "Ovo, galinha, inteiro, frito (c/ óleo de soja*), c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=96C1hEt5STdPopHsxw%2B7QQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0004J",
+      "nome": "Ovo, galinha, clara, cozida/10 min, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=rEn8Lw5TC8U9z%2FmjYUH1NA%3D%3D"
+    },
+    {
+      "codigo": "BRC0005J",
+      "nome": "Ovo, galinha, clara, crua, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=IBWeNVAr6szSwtXAQN2HAQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0067J",
+      "nome": "Ovo, galinha, mexido, c/ margarina, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=5hYbDu0zABhizRVpxdzjTg%3D%3D"
+    },
+    {
+      "codigo": "BRC0061J",
+      "nome": "Ovo, galinha, mexido, c/ salsa (salsinha), c/ óleo de soja, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=sFUXN33KJONgiuwgJi0KiA%3D%3D"
+    },
+    {
+      "codigo": "BRC0062J",
+      "nome": "Ovo, galinha, mexido, c/ salsa (salsinha), c/ óleo de soja, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Kv%2BlOvwcrS76fDTDHDqcIg%3D%3D"
+    },
+    {
+      "codigo": "BRC0063J",
+      "nome": "Ovo, galinha, mexido, c/ salsa (salsinha), s/ óleo, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Zp8FaWNuKnNFFAUGfUlTxw%3D%3D"
+    },
+    {
+      "codigo": "BRC0064J",
+      "nome": "Ovo, galinha, mexido, c/ salsa (salsinha), s/ óleo, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=e0sITIJ0JnpiR7zEm7bR%2Bw%3D%3D"
+    },
+    {
+      "codigo": "BRC0065J",
+      "nome": "Ovo, galinha, mexido, s/ óleo, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=4ULZy75bT6EfdnWIon7wAg%3D%3D"
+    },
+    {
+      "codigo": "BRC0066J",
+      "nome": "Ovo, galinha, mexido, c/ espinafre, c/ óleo de soja, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=0WQhi8VobCGVxwN56qzReg%3D%3D"
+    }
+  ],
+  "Tilápia": [
+    {
+      "codigo": "BRC0031E",
+      "nome": "Peixe, água doce, tilápia, filé, cru, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=0WrecZJFwCKFkm8iFwMn7A%3D%3D"
+    },
+    {
+      "codigo": "BRC0098E",
+      "nome": "Peixe, água doce, Tilápia, filé s/ pele, cozido, s/ óleo, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=0CZct7rXRpzIr3EtN%2F9emg%3D%3D"
+    },
+    {
+      "codigo": "BRC0099E",
+      "nome": "Peixe, água doce, Tilápia, filé s/ pele, cozido, s/ óleo, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=P3CbrR7QhHEoaFVT%2FSBLiQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0486E",
+      "nome": "Peixe, água doce, Tilápia, filé s/ pele, grelhado, s/ óleo, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=gVVgPpqONC1c0ccxdD1jJQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0487E",
+      "nome": "Peixe, água doce, Tilápia, filé s/ pele, grelhado, c/ óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=gcnyYTuWVwE8NzwTlCkbQg%3D%3D"
+    },
+    {
+      "codigo": "BRC0488E",
+      "nome": "Peixe, água doce, Tilápia, filé s/ pele, grelhado, c/ óleo de soja, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ZtFnXnU4G2pKvm%2BBRvqa2A%3D%3D"
+    }
+  ],
+  "Leite, vaca, integral": [
+    {
+      "codigo": "BRC0039G",
+      "nome": "Leite, vaca, integral, em pó (média de várias amostras), Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=tBcaslrGDHD419%2BtYJHFGQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0040G",
+      "nome": "Leite, vaca, integral, instantâneo, em pó, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=OJb1YocDnjKeVgbuzv%2F92Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0041G",
+      "nome": "Leite, vaca, integral, em pó, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=pr1y4sDiBicAbh%2BWqXlUFA%3D%3D"
+    },
+    {
+      "codigo": "BRC0042G",
+      "nome": "Leite, vaca, integral, em pó, enriquecido c/ vitaminas A e E, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=rJt4PaSRaxrbAeW%2BG6kZgw%3D%3D"
+    },
+    {
+      "codigo": "BRC0043G",
+      "nome": "Leite, vaca, integral, fluído, pasteurizado, Brasil (média de diferentes amostras)",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=urAaBhupTgQN9fiickq%2BKw%3D%3D"
+    },
+    {
+      "codigo": "BRC0044G",
+      "nome": "Leite, vaca, integral, fluído, UHT, Brasil (média de diferentes amostras)",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=qQZaSyea0xFzF6Wq279NzQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0045G",
+      "nome": "Leite, vaca, integral, orgânico, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=N4%2FRuvnlVRjlrqEsXYsViw%3D%3D"
+    }
+  ],
+  "Iogurte, natural": [
+    {
+      "codigo": "BRC0020G",
+      "nome": "Iogurte, natural, Brasil (média de diferentes amostras)",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=%2F%2BWDsZRcTIQKSS%2FOarmRAw%3D%3D"
+    },
+    {
+      "codigo": "BRC0021G",
+      "nome": "Iogurte, natural, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=777HZ3eHjh684C6bvaFtiQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0022G",
+      "nome": "Iogurte, natural, desnatado, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=cbJdaAhIkC7GY%2Fj1DspIDA%3D%3D"
+    },
+    {
+      "codigo": "BRC0023G",
+      "nome": "Iogurte, natural, desnatado, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=zz9D5ZCD9zAH9jHhCG1b3Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0110G",
+      "nome": "Iogurte, natural, c/ aveia, flocos",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=2mp%2FJhYcmWMVcSxxzqnOwA%3D%3D"
+    },
+    {
+      "codigo": "BRC0116G",
+      "nome": "Iogurte, natural, c/ granola, caseira, simples (aveia em flocos, flocos de milho, semente de linhaça, castanha de caju e Brasil, damasco seco, uva passa e canela em pó)",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=LJdvgIJeI%2BuX53nzbAD20g%3D%3D"
+    },
+    {
+      "codigo": "BRC0109G",
+      "nome": "Iogurte, natural, c/ granola, caseira (aveia em flocos, flocos de milho, semente de chia e linhaça, coco, mel, oleagionosas - noz, castanha de caju e Brasil, amêndoa e avelã, damasco seco, uva passa, c/ óleo de milho, c/ canela)",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=7kptj1FTUQY6lXTZA13TqA%3D%3D"
+    },
+    {
+      "codigo": "BRC0112G",
+      "nome": "Iogurte, natural, desnatado, c/ aveia, flocos",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=qgYt70SDe3BhczOefgmASw%3D%3D"
+    },
+    {
+      "codigo": "BRC0117G",
+      "nome": "Iogurte, natural, desnatado, c/ granola, simples (aveia em flocos, flocos de milho, semente de linhaça, castanha de caju e Brasil, damasco seco, uva passa e canela em pó)",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=iUEzPjUS9zosRsmFxWjlAQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0111G",
+      "nome": "Iogurte, natural, desnatado, c/ granola, caseira (aveia em flocos, flocos de milho, semente de chia e linhaça, coco, mel, oleagionosas - noz, castanha de caju e Brasil, amêndoa e avelã, damasco seco, uva passa, c/ óleo de milho, c/ canela)",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=aGA%2BsRWgsxCM0CaMUmxNyA%3D%3D"
+    }
+  ],
+  "Banana, prata": [
+    {
+      "codigo": "BRC0011C",
+      "nome": "Banana, prata, in natura, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=2TForHUFkQoNZIv4AIRJVA%3D%3D"
+    }
+  ],
+  "Maçã, Fuji": [
+    {
+      "codigo": "BRC0064C",
+      "nome": "Maçã, Fuji, c/ casca, in natura, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=B1IDbz%2BLORA1EFIyv2PCoA%3D%3D"
+    },
+    {
+      "codigo": "BRC0302C",
+      "nome": "Maçã, Fuji, assada, c/ açúcar e canela, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=JnAmxTod5nlsLUWeCY2HnA%3D%3D"
+    }
+  ],
+  "Laranja, pera": [
+    {
+      "codigo": "BRC0020C",
+      "nome": "Laranja, Pera, in natura, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=XYjI%2FfkZDOQ%2FtRn1x1N8tQ%3D%3D"
+    }
+  ],
+  "Mamão, Formosa": [
+    {
+      "codigo": "BRC0045C",
+      "nome": "Mamão, Formosa, polpa, in natura, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=N%2BgREPajSjWOCcTNi5hX7g%3D%3D"
+    }
+  ],
+  "Brócolis": [
+    {
+      "codigo": "BRC0016B",
+      "nome": "Brócolis, cru, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=OWbrIFEs23YHCEcQNknivA%3D%3D"
+    },
+    {
+      "codigo": "BRC0045B",
+      "nome": "Brócolis, flor, cozido, drenado, s/ óleo, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=GZzu8FRyInu2h2jsgc8xrQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0150B",
+      "nome": "Brócolis, flor, cozido, drenado, s/ óleo, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=BhVf3UiBaNnIZ3DZrDT4yg%3D%3D"
+    },
+    {
+      "codigo": "BRC0261B",
+      "nome": "Brócolis, flor, à milanesa (farinha de trigo, ovo e farinha de rosca), frita em imersão, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=MVD6rXIizWN4C8%2FO8dt1HA%3D%3D"
+    },
+    {
+      "codigo": "BRC0262B",
+      "nome": "Brócolis, flor, à milanesa (farinha de trigo, ovo e farinha de rosca), frita em imersão, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=EYgu9AHCkns9qhPmVkHzug%3D%3D"
+    },
+    {
+      "codigo": "BRC0163B",
+      "nome": "Brócolis, flor, refogado (c/ óleo, cebola e alho), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=TYUz%2BFYsCg%2BiJG1vpsIb%2Bg%3D%3D"
+    },
+    {
+      "codigo": "BRC0164B",
+      "nome": "Brócolis, flor, refogado (c/ óleo, cebola e alho), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=iZaFKclFlUpRbAH19sUO7g%3D%3D"
+    },
+    {
+      "codigo": "BRC1215B",
+      "nome": "Brócolis (ou couve-flor), romanesco, cru (dado importado)",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=y3dZueXLX1v3a9Py1JLXbQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0191B",
+      "nome": "Salada, brócolis, flor, cozido, c/ molho vinagrete (tomate, cebola, salsinha, vinagre e óleo), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=%2FbhVKgO3Ok0%2BVVX8PjRgDg%3D%3D"
+    },
+    {
+      "codigo": "BRC0192B",
+      "nome": "Salada, brócolis, flor, cozido, c/ molho vinagrete (tomate, cebola, salsinha, vinagre e óleo), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=2K8%2F0GpGk6hQTazvIBdDyA%3D%3D"
+    },
+    {
+      "codigo": "BRC0639B",
+      "nome": "Salada, brócolis, cozido, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=I222ypg0qR4DUKYnZ%2BgIoA%3D%3D"
+    },
+    {
+      "codigo": "BRC0640B",
+      "nome": "Salada, brócolis, cozido, c/ óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ViLniI0UCpVkX56fmr3p9g%3D%3D"
+    },
+    {
+      "codigo": "BRC0641B",
+      "nome": "Salada, brócolis, cozido, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=LDyNEr5hnPc7H8oS8wiG1g%3D%3D"
+    },
+    {
+      "codigo": "BRC0642B",
+      "nome": "Salada, brócolis, cozido, c/ molho de salada - salsa, vinagre de maçã, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=yMqW4%2Fi%2BmIkwNdBrb4Vqfg%3D%3D"
+    },
+    {
+      "codigo": "BRC0643B",
+      "nome": "Salada, brócolis, cozido, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=8CD7f0p%2BjW9SJx6IGkbsRw%3D%3D"
+    },
+    {
+      "codigo": "BRC0644B",
+      "nome": "Salada, brócolis cozido, tomate, queijo minas, azeitona, cebola, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=8FFidgF83duA4RAxa4Rnag%3D%3D"
+    },
+    {
+      "codigo": "BRC0645B",
+      "nome": "Salada, brócolis cozido, tomate, queijo minas, azeitona, cebola, c/ óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=5VPXUHxJ%2Fyc9Fy78rq7Axw%3D%3D"
+    },
+    {
+      "codigo": "BRC0646B",
+      "nome": "Salada, brócolis cozido, tomate, queijo minas, azeitona, cebola, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=lJtleyEm%2B9HOnjp%2FTcAzNA%3D%3D"
+    },
+    {
+      "codigo": "BRC0647B",
+      "nome": "Salada, brócolis cozido, tomate, queijo minas, azeitona, cebola, c/ molho de salada - salsa, vinagre de maçã, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=PPQgJbBwPtQl7CIMlEclyw%3D%3D"
+    },
+    {
+      "codigo": "BRC0648B",
+      "nome": "Salada, brócolis cozido, tomate, queijo minas, azeitona, cebola, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Ibc0%2BSRVFwKEbtg6t%2FSFKQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0649B",
+      "nome": "Salada, brócolis cozido, tomate, queijo minas, azeitona, cebola, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ueWtV6lAG51U8IbIQjfCUw%3D%3D"
+    },
+    {
+      "codigo": "BRC0545A",
+      "nome": "Arroz com brócolis, c/ arroz polido, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=YLXuQqT2cC5olaEsmWT7Ng%3D%3D"
+    },
+    {
+      "codigo": "BRC0546A",
+      "nome": "Arroz com brócolis, c/ arroz polido, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=950x6y42w9MH3WvVVINnpQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0547A",
+      "nome": "Arroz com brócolis, c/ arroz integral, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=9DJjJqJbOUnjlYtzH1EC%2BA%3D%3D"
+    },
+    {
+      "codigo": "BRC0548A",
+      "nome": "Arroz com brócolis, c/ arroz integral, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=h6Bh%2BvPMlqkX%2FytUF1ZKsQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0429F",
+      "nome": "Carne, boi, músculo, s/ gordura, cozida, c/ brócolis e cenoura, c/ óleo, cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=kXz5Jm%2BXr40Oo2hMFOaiVw%3D%3D"
+    },
+    {
+      "codigo": "BRC0430F",
+      "nome": "Carne, boi, músculo, s/ gordura, cozida, c/ brócolis e cenoura, c/ óleo, cebola e alho, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=I9SrQFD%2Fx%2B0A%2B93JBCTB2g%3D%3D"
+    },
+    {
+      "codigo": "BRC0439F",
+      "nome": "Carne, boi, paleta, s/ gordura, cozida, c/ brócolis e cenoura, c/ óleo, cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=dejFxzbyObnz94Jx7TASzA%3D%3D"
+    },
+    {
+      "codigo": "BRC0440F",
+      "nome": "Carne, boi, paleta, s/ gordura, cozida, c/ brócolis e cenoura, c/ óleo, cebola e alho, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=hxIPUIMVKeK5jhb7IbYNUw%3D%3D"
+    },
+    {
+      "codigo": "BRC0238E",
+      "nome": "Peixe, água salgada, pescada, branca, ensopado (c/ cebola, tomate e pimentão), c/ batata e legumes - cenoura, abobrinha, brócolis, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=wE7x%2BlXQae2Xm9i%2BCGKFHg%3D%3D"
+    },
+    {
+      "codigo": "BRC0510F",
+      "nome": "Carne, frango, peito, c/ vegetais - brócolis e cenoura, c/ óleo, cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Q2bFvhIfVWYNk7EPut3iIQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0990B",
+      "nome": "Salada, brócolis, tomate, queijo minas, azeitona, cebola, c/ molho vinagrete (tomate, cebola, salsa, vinagre, azeite de oliva), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=WlUh9bYLXvUCiw1d58v0sQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0987A",
+      "nome": "Risole, recheado c/ brócolis e queijo muçarela, caseiro, frito",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=rpzlHto1oS4ntETo6iKtCw%3D%3D"
+    },
+    {
+      "codigo": "BRC0989A",
+      "nome": "Salada, macarrão, trigo, c/ brócolis, tomate e peito de peru defumado, c/ azeite de oliva, c/ vinagre de maçã, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ZDjx017BsDb4%2F8e8fiUnhw%3D%3D"
+    },
+    {
+      "codigo": "BRC0990A",
+      "nome": "Salada, macarrão, trigo, c/ brócolis, tomate e peito de peru defumado, c/ azeite de oliva, c/ vinagre de maçã, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=QWsVamQJxCpjxJsBRVFXyg%3D%3D"
+    },
+    {
+      "codigo": "BRC1024A",
+      "nome": "Pizza, brócolis, shiitake e queijo muçarela, caseira",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=GVPBLKPxsf5iT7zoCUCkSg%3D%3D"
+    },
+    {
+      "codigo": "BRC0194N",
+      "nome": "Papa de carne bovina moída (acém), macarrão e brócolis, c/ caldo de frango, c/ cebola e azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=U%2B2aHJKlz7GZ3AyL0%2F4cKg%3D%3D"
+    },
+    {
+      "codigo": "BRC0195N",
+      "nome": "Papa de carne bovina moída (acém), macarrão e brócolis, c/ caldo de frango, c/ cebola e óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=d2PoNTCRA1Oykkja4bOI0g%3D%3D"
+    },
+    {
+      "codigo": "BRC0196N",
+      "nome": "Papa de carne bovina moída (acém), macarrão e brócolis, c/ caldo de frango, c/ cebola e óleo de soja, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=IE%2FNYwoPLe2gPHNcBtlY6A%3D%3D"
+    },
+    {
+      "codigo": "BRC0197N",
+      "nome": "Papa de carne bovina moída (acém), macarrão e brócolis, c/ caldo de frango, c/ cebola e azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=6mLnqAhJTb8gbYYrZ6bUOg%3D%3D"
+    },
+    {
+      "codigo": "BRC0198N",
+      "nome": "Papa de carne bovina moída (acém), macarrão e brócolis, c/ caldo de frango, c/ cebola, s/ óleo, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=WXGNFvDZy2kQFQR0%2BWOmgg%3D%3D"
+    },
+    {
+      "codigo": "BRC0199N",
+      "nome": "Papa de carne bovina moída (acém), macarrão e brócolis, c/ caldo de frango, c/ cebola, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=uWilfD0vVTs8KAubzIv%2BRA%3D%3D"
+    },
+    {
+      "codigo": "BRC0229N",
+      "nome": "Papa de carne bovina moída (acém), cará e brócolis, c/ caldo de frango, c/ cebola, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=4knpyrFT7eq%2F31maEXZodw%3D%3D"
+    },
+    {
+      "codigo": "BRC0228N",
+      "nome": "Papa de carne bovina moída (acém), cará e brócolis, c/ caldo de frango, c/ cebola, s/ óleo, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=vBiPDMgmvn5MooSYDJfElA%3D%3D"
+    },
+    {
+      "codigo": "BRC0227N",
+      "nome": "Papa de carne bovina moída (acém), cará e brócolis, c/ caldo de frango, c/ cebola e azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=I3FsfJ817puT%2FU%2FPVDSJ9A%3D%3D"
+    },
+    {
+      "codigo": "BRC0226N",
+      "nome": "Papa de carne bovina moída (acém), cará e brócolis, c/ caldo de frango, c/ cebola e óleo de soja, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=WByT7gkRxc12IBX43HhVoQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0225N",
+      "nome": "Papa de carne bovina moída (acém), cará e brócolis, c/ caldo de frango, c/ cebola e óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=IsbV2Dr%2BjaRiYY%2F5ED9S1Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0224N",
+      "nome": "Papa de carne bovina moída (acém), cará e brócolis, c/ caldo de frango, c/ cebola e azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=MbAsZono2tfyt1%2F0pcnNoA%3D%3D"
+    },
+    {
+      "codigo": "BRC0436N",
+      "nome": "Papa de carne bovina moída (acém), macarrão e brócolis, c/ caldo de carne, c/ cebola e azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=I3Y1ES0ZjRJbZiDy%2FI%2FqYQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0437N",
+      "nome": "Papa de carne bovina moída (acém), macarrão e brócolis, c/ caldo de carne, c/ cebola e óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=eYEZ4tP190D1OGTDwzw7zQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0438N",
+      "nome": "Papa de carne bovina moída (acém), macarrão e brócolis, c/ caldo de carne, c/ cebola e óleo de soja, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=DrSBMs0f%2FXoOTV0o7PYnGg%3D%3D"
+    },
+    {
+      "codigo": "BRC0439N",
+      "nome": "Papa de carne bovina moída (acém), macarrão e brócolis, c/ caldo de carne, c/ cebola e azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=V%2BHTBNllo0jlal90yVvP0A%3D%3D"
+    },
+    {
+      "codigo": "BRC0440N",
+      "nome": "Papa de carne bovina moída (acém), macarrão e brócolis, c/ caldo de carne, c/ cebola, s/ óleo, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=cBym4IX0msfNXNTJQeuYIQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0441N",
+      "nome": "Papa de carne bovina moída (acém), macarrão e brócolis, c/ caldo de carne, c/ cebola, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=9N0DXApIzmoofSJK022BVg%3D%3D"
+    },
+    {
+      "codigo": "BRC0454N",
+      "nome": "Papa de carne bovina moída (acém), cará e brócolis, c/ caldo de carne, c/ cebola e azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=1%2BhP2iBxy6cQym%2F%2Bk%2BYzHw%3D%3D"
+    },
+    {
+      "codigo": "BRC0455N",
+      "nome": "Papa de carne bovina moída (acém), cará e brócolis, c/ caldo de carne, c/ cebola e óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=wSWAUKKUycafy7z01ciZKw%3D%3D"
+    },
+    {
+      "codigo": "BRC0456N",
+      "nome": "Papa de carne bovina moída (acém), cará e brócolis, c/ caldo de carne, c/ cebola e óleo de soja, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=xeuyL5pTfyaK4JddfwmAlA%3D%3D"
+    },
+    {
+      "codigo": "BRC0457N",
+      "nome": "Papa de carne bovina moída (acém), cará e brócolis, c/ caldo de carne, c/ cebola e azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=5cUul%2F4MCjmsrGi6PNwjhg%3D%3D"
+    },
+    {
+      "codigo": "BRC0458N",
+      "nome": "Papa de carne bovina moída (acém), cará e brócolis, c/ caldo de carne, c/ cebola, s/ óleo c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=MwuhZVgMg0Z9n3vBxkKSYg%3D%3D"
+    },
+    {
+      "codigo": "BRC0459N",
+      "nome": "Papa de carne bovina moída (acém), cará e brócolis, c/ caldo de carne, c/ cebola, s/ óleo s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ZpeHLGmNJeHEKTIt%2B%2FaXnQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0478N",
+      "nome": "Papa de carne bovina moída (patinho), macarrão e brócolis, c/ caldo de frango, c/ cebola e azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=NeGBobMnENwaER%2BRU3QJzA%3D%3D"
+    },
+    {
+      "codigo": "BRC0479N",
+      "nome": "Papa de carne bovina moída (patinho), macarrão e brócolis, c/ caldo de frango, c/ cebola e óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=3unh0toTyZ4MFHUhN8cOSQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0480N",
+      "nome": "Papa de carne bovina moída (patinho), macarrão e brócolis, c/ caldo de frango, c/ cebola e óleo de soja, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=vX6%2FhLX6eqkSTP5r9jEVHA%3D%3D"
+    },
+    {
+      "codigo": "BRC0481N",
+      "nome": "Papa de carne bovina moída (patinho), macarrão e brócolis, c/ caldo de frango, c/ cebola e azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=e0%2F1AzMEgNpdKqGxu3TwYg%3D%3D"
+    },
+    {
+      "codigo": "BRC0482N",
+      "nome": "Papa de carne bovina moída (patinho), macarrão e brócolis, c/ caldo de frango, c/ cebola, s/ óleo, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=m15Yf5GX5877wzbc85qj9w%3D%3D"
+    },
+    {
+      "codigo": "BRC0483N",
+      "nome": "Papa de carne bovina moída (patinho), macarrão e brócolis, c/ caldo de frango, c/ cebola, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=bj%2BcYKEbHEND3z1BwmTa2g%3D%3D"
+    },
+    {
+      "codigo": "BRC0496N",
+      "nome": "Papa de carne bovina moída (patinho), cará e brócolis, c/ caldo de frango, c/ cebola e azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=liVHEP2SKLIRIKM036jEbw%3D%3D"
+    },
+    {
+      "codigo": "BRC0497N",
+      "nome": "Papa de carne bovina moída (patinho), cará e brócolis, c/ caldo de frango, c/ cebola e óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=JxcRl5%2FoW0OHaS8bLP8iqg%3D%3D"
+    },
+    {
+      "codigo": "BRC0498N",
+      "nome": "Papa de carne bovina moída (patinho), cará e brócolis, c/ caldo de frango, c/ cebola e óleo de soja, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=eBt6u0bb6vahFL%2FN8h95HQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0499N",
+      "nome": "Papa de carne bovina moída (patinho), cará e brócolis, c/ caldo de frango, c/ cebola e azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ZR7PCQmGj%2BQUZ1ziaZOzqw%3D%3D"
+    },
+    {
+      "codigo": "BRC0500N",
+      "nome": "Papa de carne bovina moída (patinho), cará e brócolis, c/ caldo de frango, c/ cebola, s/ óleo, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=zFQn6eKujudKQHGFBnRJAQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0501N",
+      "nome": "Papa de carne bovina moída (patinho), cará e brócolis, c/ caldo de frango, c/ cebola, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=gcJl5MTqkCjEmCEezeL0vg%3D%3D"
+    },
+    {
+      "codigo": "BRC0520N",
+      "nome": "Papa de carne bovina moída (patinho), macarrão e brócolis, c/ caldo de carne, c/ cebola e azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=maUKQVf0llGC5cOMat9Pqg%3D%3D"
+    },
+    {
+      "codigo": "BRC0521N",
+      "nome": "Papa de carne bovina moída (patinho), macarrão e brócolis, c/ caldo de carne, c/ cebola e óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=GvmgPhBEv2Zav23InoMeCw%3D%3D"
+    },
+    {
+      "codigo": "BRC0522N",
+      "nome": "Papa de carne bovina moída (patinho), macarrão e brócolis, c/ caldo de carne, c/ cebola e óleo de soja, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Z7ZEJ0U0%2BAUxRApxKJsMFQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0523N",
+      "nome": "Papa de carne bovina moída (patinho), macarrão e brócolis, c/ caldo de carne, c/ cebola e azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=09rZgHRTNH7PeDQdqJrxIQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0524N",
+      "nome": "Papa de carne bovina moída (patinho), macarrão e brócolis, c/ caldo de carne, c/ cebola, s/ óleo, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=4DGXmlV5xjWtwADJQCMCZQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0525N",
+      "nome": "Papa de carne bovina moída (patinho), macarrão e brócolis, c/ caldo de carne, c/ cebola, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=f09itkYQvGuKcsIQuDQTVg%3D%3D"
+    },
+    {
+      "codigo": "BRC0538N",
+      "nome": "Papa de carne bovina moída (patinho), cará e brócolis, c/ caldo de carne, c/ cebola e azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=KUHkVSXG7a%2Btlv2YKhkL1w%3D%3D"
+    },
+    {
+      "codigo": "BRC0539N",
+      "nome": "Papa de carne bovina moída (patinho), cará e brócolis, c/ caldo de carne, c/ cebola e óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=mVSmfZUwvPQTrOLB0V4iAA%3D%3D"
+    },
+    {
+      "codigo": "BRC0540N",
+      "nome": "Papa de carne bovina moída (patinho), cará e brócolis, c/ caldo de carne, c/ cebola e óleo de soja, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=UEHZzLaktD1U8s8QWYqNvA%3D%3D"
+    },
+    {
+      "codigo": "BRC0541N",
+      "nome": "Papa de carne bovina moída (patinho), cará e brócolis, c/ caldo de carne, c/ cebola e azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=2npsg%2B1k%2F0ZPRfLNmjuKWQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0542N",
+      "nome": "Papa de carne bovina moída (patinho), cará e brócolis, c/ caldo de carne, c/ cebola, s/ óleo, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Wvzd8WBLrMOM0wDtIYG%2BcA%3D%3D"
+    },
+    {
+      "codigo": "BRC0543N",
+      "nome": "Papa de carne bovina moída (patinho), cará e brócolis, c/ caldo de carne, c/ cebola, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=LDDE5TC1VR4cKpvXSDvmsA%3D%3D"
+    },
+    {
+      "codigo": "BRC0343N",
+      "nome": "Papa de carne bovina moída (acém), arroz e brócolis, c/ caldo de frango, c/ cebola, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=5FNES1YHmrwuxs2Li4Qebg%3D%3D"
+    },
+    {
+      "codigo": "BRC0345N",
+      "nome": "Papa de carne bovina moída (acém), arroz e brócolis, c/ caldo de frango, c/ cebola e óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=tTndkTqKAYrt9LnTtLxGuw%3D%3D"
+    },
+    {
+      "codigo": "BRC0346N",
+      "nome": "Papa de carne bovina moída (acém), arroz e brócolis, c/ caldo de frango, c/ cebola e óleo de soja, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=SnxG2JrKqafJrA4m2SJWGA%3D%3D"
+    },
+    {
+      "codigo": "BRC0347N",
+      "nome": "Papa de carne bovina moída (acém), arroz e brócolis, c/ caldo de frango, c/ cebola, c/ azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=htAEDHsDW%2F3TePrw1y3xnw%3D%3D"
+    },
+    {
+      "codigo": "BRC0348N",
+      "nome": "Papa de carne bovina moída (acém), arroz e brócolis, c/ caldo de frango, c/ cebola, s/ óleo, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=jUsRewe3skV07t%2B7%2FVDVrg%3D%3D"
+    },
+    {
+      "codigo": "BRC0349N",
+      "nome": "Papa de carne bovina moída (acém), arroz e brócolis, c/ caldo de frango, c/ cebola, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=y6fjjMOcYyfcj78Ml%2F62wA%3D%3D"
+    },
+    {
+      "codigo": "BRC0611N",
+      "nome": "Papa de carne bovina moída (acém), arroz branco e brócolis, c/ caldo de carne, c/ cebola, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=3S8AeKUiUl%2FXG1xEqOgj%2Fg%3D%3D"
+    },
+    {
+      "codigo": "BRC0612N",
+      "nome": "Papa de carne bovina moída (acém), arroz branco e brócolis, c/ caldo de carne, c/ cebola, c/ óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=SSvur3DEXQF87%2BXvfivBdw%3D%3D"
+    },
+    {
+      "codigo": "BRC0613N",
+      "nome": "Papa de carne bovina moída (acém), arroz branco e brócolis, c/ caldo de carne, c/ cebola, c/ óleo de soja, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Y0237XztZ4ZEWdVyfH1QIA%3D%3D"
+    },
+    {
+      "codigo": "BRC0614N",
+      "nome": "Papa de carne bovina moída (acém), arroz branco e brócolis, c/ caldo de carne, c/ cebola, c/ azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=dK5dhZGzTzrVs1OqBQACgA%3D%3D"
+    },
+    {
+      "codigo": "BRC0615N",
+      "nome": "Papa de carne bovina moída (acém), arroz branco e brócolis, c/ caldo de carne, c/ cebola, s/ óleo, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=qNUyU87dHUvMygHDneCrrQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0616N",
+      "nome": "Papa de carne bovina moída (acém), arroz branco e brócolis, c/ caldo de carne, c/ cebola, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=zoGANmSBR90htqD17Mps%2BA%3D%3D"
+    },
+    {
+      "codigo": "BRC0617N",
+      "nome": "Papa de carne bovina moída (patinho), arroz branco e brócolis, c/ caldo de frango, c/ cebola e azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=mMQLvKNETwxXXOJmCkOQqg%3D%3D"
+    },
+    {
+      "codigo": "BRC0618N",
+      "nome": "Papa de carne bovina moída (patinho), arroz branco e brócolis, c/ caldo de frango, c/ cebola e óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=fCy51ck6YfKB9S9%2F20CXRw%3D%3D"
+    },
+    {
+      "codigo": "BRC0619N",
+      "nome": "Papa de carne bovina moída (patinho), arroz branco e brócolis, c/ caldo de frango, c/ cebola e óleo de soja, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=YK1jjOFw7Yg7aKUUHodSqQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0620N",
+      "nome": "Papa de carne bovina moída (patinho), arroz branco e brócolis, c/ caldo de frango, c/ cebola e azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=touABhh%2BhRTPQOtVPKebPw%3D%3D"
+    }
+  ],
+  "Cenoura": [
+    {
+      "codigo": "BRC0020B",
+      "nome": "Cenoura, s/ casca, crua, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Enkb319hE39lkBlQ653LNQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0047B",
+      "nome": "Cenoura, s/ casca, cozida, drenada, s/ óleo, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=358%2FC7NbFriqEFLbs4LQlA%3D%3D"
+    },
+    {
+      "codigo": "BRC0340B",
+      "nome": "Cenoura, s/ casca, cozida, c/ molho de tomate (tomate, c/ óleo, cebola e alho), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=hLaITX3tW81oSflGlRfQag%3D%3D"
+    },
+    {
+      "codigo": "BRC0341B",
+      "nome": "Cenoura, s/ casca, cozida, c/ molho de tomate (tomate, c/ óleo, cebola e alho), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ZKMrFgLLITw6HeoSeEYrvA%3D%3D"
+    },
+    {
+      "codigo": "BRC0332B",
+      "nome": "Cenoura, s/ casca, cozida, drenada, c/ óleo de soja, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=VC%2FMhuSZBFixE%2FVotZh7kw%3D%3D"
+    },
+    {
+      "codigo": "BRC0333B",
+      "nome": "Cenoura, s/ casca, cozida, drenada, c/ óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=wgJ%2BgG%2BOKmeDJLHkmP3z6w%3D%3D"
+    },
+    {
+      "codigo": "BRC0334B",
+      "nome": "Cenoura, s/ casca, refogada (c/ óleo, cebola e alho), s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=KiowmMiJSoGZxayI%2BCKXzg%3D%3D"
+    },
+    {
+      "codigo": "BRC0335B",
+      "nome": "Cenoura, s/ casca, refogada (c/ óleo, cebola e alho), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=88wTuKMNO3icq9pVnX1z2Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0336B",
+      "nome": "Cenoura, s/ casca, sauté (c/ margarina e salsa), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Lxs%2FCiIqPphMk4Nk9X9O%2Fg%3D%3D"
+    },
+    {
+      "codigo": "BRC0337B",
+      "nome": "Cenoura, s/ casca, sauté (c/ margarina e salsa), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Qm7YbAFfMruUQ8OB3xHFXQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0913B",
+      "nome": "Cenoura, s/ casca, cozida, drenada, s/ óleo, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=SxR%2BfIgRegH2xysp19ihxA%3D%3D"
+    },
+    {
+      "codigo": "BRC1001B",
+      "nome": "Cenoura e milho, refogado (c/ óleo, cebola e alho), c/ salsa, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=kSiCQwR2fym3L8u1bBjRCQ%3D%3D"
+    },
+    {
+      "codigo": "BRC1002B",
+      "nome": "Cenoura e milho, refogado (c/ óleo, cebola e alho), c/ salsa, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=EQ68cCRV%2ByYLpt8Lb%2BCRiw%3D%3D"
+    },
+    {
+      "codigo": "BRC1009B",
+      "nome": "Cenoura e ervilha, refogado (c/ óleo, cebola e alho), c/ salsa, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=6ulZ8j45t7Cu1rX%2FZitv9w%3D%3D"
+    },
+    {
+      "codigo": "BRC1010B",
+      "nome": "Cenoura e ervilha, refogado (c/ óleo, cebola e alho), c/ salsa, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=z9VJ2u%2FpALluIAuuQLpAVA%3D%3D"
+    },
+    {
+      "codigo": "BRC1203B",
+      "nome": "Cenoura, à milanesa (farinha de rosca*, ovo e farinha de trigo refinada), frita em imersão (c/ óleo de soja), c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=%2BUM3TIgw%2B9IkNkYHJ6%2FQSg%3D%3D"
+    },
+    {
+      "codigo": "BRC1230B",
+      "nome": "Cenoura, s/ casca, grelhada, s/ óleo, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=xojShp%2BzBkjD6Sj7ApIgPw%3D%3D"
+    },
+    {
+      "codigo": "BRC0072A",
+      "nome": "Bolo, cenoura, recheio sabor chocolate, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=%2Fu5MpOXMsMQjeg6QPwWaxQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0451A",
+      "nome": "Sanduíche, pão forma integral*, c/ peito de frango grelhado (s/ óleo, s/ sal), cenoura crua, tomate, maionese e alface americana, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=GdaqIk3mUamDg2v86ipK2g%3D%3D"
+    },
+    {
+      "codigo": "BRC0452A",
+      "nome": "Sanduíche, pão forma tradicional*, c/ peito de frango grelhado (s/ óleo, s/ sal), cenoura crua, tomate, maionese e alface americana, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=5U4RC7AExkAvMdVovO1lCg%3D%3D"
+    },
+    {
+      "codigo": "BRC0323A",
+      "nome": "Sanduíche, pão forma tradicional, c/ peito de frango grelhado, alface americana, cenoura crua e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=FqQBRoNV8HTagKDS52akSQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0813A",
+      "nome": "Sanduíche, pão forma integral, c/ queijo minas, c/ alface americana, cenoura crua, tomate, c/ molho de iogurte",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=YfWtXItL7tjnR%2FPRmJ9uGQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0325A",
+      "nome": "Sanduíche, pão forma integral*, c/ peito de frango grelhado (s/ óleo, s/ sal), cenoura crua, tomate, molho de iogurte e alface americana, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=yfmEPPHgokZcMepUF8WmbA%3D%3D"
+    },
+    {
+      "codigo": "BRC0326A",
+      "nome": "Sanduíche, pão forma tradicional*, c/ peito de frango grelhado (s/ óleo, s/ sal), cenoura crua, tomate, molho de iogurte e alface americana, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=bH0jc%2FWk6Oq%2FLdrs2UkkZw%3D%3D"
+    },
+    {
+      "codigo": "BRC0388A",
+      "nome": "Sanduíche, pão forma integral, c/ queijo minas, alface americana, cenoura crua, tomate, c/ maionese",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=iMMkhiYrhapGTSw%2BMjFi9A%3D%3D"
+    },
+    {
+      "codigo": "BRC0842A",
+      "nome": "Sanduíche, pão sírio, c/ peito de frango grelhado (c/ óleo de soja), alface americana, cenoura crua, tomate, c/ molho de iogurte, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=vrGvyLuHoJ6MeVD0e7SjJg%3D%3D"
+    },
+    {
+      "codigo": "BRC0843A",
+      "nome": "Sanduíche, pão sírio, c/ peito de frango grelhado, alface americana, cenoura crua, tomate e molho de iogurte, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=xXJ3YUf3C1Jq2fgksgIpOA%3D%3D"
+    },
+    {
+      "codigo": "BRC0713A",
+      "nome": "Sanduíche, pão forma tradicional, c/ peito de frango grelhado, alface americana, cenoura crua e tomate, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=9vXa9pZcRJgiePKRzvh4Lw%3D%3D"
+    },
+    {
+      "codigo": "BRC0762A",
+      "nome": "Sanduíche, pão francês, c/ alface, tomate, cenoura, c/ molho de iogurte",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=kVbsBUtKjkHy0rdf2ZkUjg%3D%3D"
+    },
+    {
+      "codigo": "BRC0763A",
+      "nome": "Sanduíche, pão forma integral, c/ alface, tomate, cenoura, c/ molho de iogurte",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ZJmizsTrxJWBKKjm1OZEQg%3D%3D"
+    },
+    {
+      "codigo": "BRC0764A",
+      "nome": "Sanduíche, pão forma tradicional, c/ alface, tomate, cenoura, c/ molho de iogurte",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=mi6WzXc%2F4H2qhVgtLARsXw%3D%3D"
+    },
+    {
+      "codigo": "BRC0765A",
+      "nome": "Sanduíche, pão sírio, c/ alface, tomate, cenoura, c/ molho de iogurte",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=KSeiWBefLjsSj%2BdUO715kQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0766A",
+      "nome": "Sanduíche, pão francês, c/ alface, tomate, cenoura e pepino",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=8ZtAqkhRgdoW6mKe244x4A%3D%3D"
+    },
+    {
+      "codigo": "BRC0767A",
+      "nome": "Sanduíche, pão forma integral, c/ alface, tomate, cenoura e pepino",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=fnPgk8X5%2Fp6dQBtAWU3%2BEA%3D%3D"
+    },
+    {
+      "codigo": "BRC0768A",
+      "nome": "Sanduíche, pão forma tradicional, c/ alface, tomate, cenoura e pepino",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=jW2kSfoxPgJI9Fdv0ZfKUQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0769A",
+      "nome": "Sanduíche, pão sírio, c/ alface, tomate, cenoura e pepino",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=AZXUOz6pO6pe8l2ziMrE6A%3D%3D"
+    },
+    {
+      "codigo": "BRC0852A",
+      "nome": "Sanduíche, pão forma integral, c/ queijo minas, alface americana, cenoura crua, tomate, c/ maionese",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=BWjAwlrfBgy1iaPv6XjfsA%3D%3D"
+    },
+    {
+      "codigo": "BRC0119C",
+      "nome": "Suco natural, abacaxi, banana e cenoura, s/ açúcar",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=lVrMXy6KZ%2FO%2BgaX77O89bQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0120C",
+      "nome": "Suco natural, abacaxi, banana e cenoura, c/ açúcar",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=2ckk9YkH9PTsoMTE309f0Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0157C",
+      "nome": "Suco natural, laranja var. Pera, cenoura e beterraba, s/ açúcar (sem diluição em água), Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=YP%2FtM2JwqYxJKWKuaOUGtg%3D%3D"
+    },
+    {
+      "codigo": "BRC0158C",
+      "nome": "Suco natural, laranja, cenoura e beterraba, c/ açúcar",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=dmnEKaT63ushi3GlIyVIGg%3D%3D"
+    },
+    {
+      "codigo": "BRC0137C",
+      "nome": "Suco natural, laranja e cenoura, s/ açúcar",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=QII3YaEW3588nNhIqqFRjg%3D%3D"
+    },
+    {
+      "codigo": "BRC0138C",
+      "nome": "Suco natural, laranja e cenoura, c/ açúcar",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=OjtkbAhvovs68wjn3VIfQQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0338B",
+      "nome": "Salada, cenoura, crua, c/ molho vinagrete (tomate, cebola, salsinha, vinagre e óleo), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=FiWXfkuJLnKQkbO24RzcoA%3D%3D"
+    },
+    {
+      "codigo": "BRC0339B",
+      "nome": "Salada, cenoura, crua, c/ molho vinagrete (tomate, cebola, salsinha, vinagre e óleo), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=%2F5QqeRmZQCyuac11OK7QEw%3D%3D"
+    },
+    {
+      "codigo": "BRC0364B",
+      "nome": "Salada, legumes cozidos (batata, cenoura, chuchu), c/ azeite, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=yaPneNEFikOUF24ZwVHZHg%3D%3D"
+    },
+    {
+      "codigo": "BRC0365B",
+      "nome": "Salada, legumes cozidos (batata, cenoura, chuchu), c/ óleo de soja, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=%2FC4m3NOmhf2YvohcuIRbOA%3D%3D"
+    },
+    {
+      "codigo": "BRC0369B",
+      "nome": "Salada, legumes cozidos (cenoura, couve-flor, vagem), c/ azeite de oliva, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=%2F0xfcqKJMDzH4Rnl%2B3OwZQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0370B",
+      "nome": "Salada, legumes cozidos (cenoura, couve-flor, vagem), c/ óleo de soja, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=8%2FVRVCCgYiBFWn%2FeKuxM2Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0373B",
+      "nome": "Salada, legumes cozidos (cenoura, couve-flor, vagem), s/ óleo, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=L04hkd9VEv8Qy1DHwMEPsA%3D%3D"
+    },
+    {
+      "codigo": "BRC0419B",
+      "nome": "Salada, chicória, cenoura cozida, cebola, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=3CzqZScYS7reLXWYyrF2eQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0420B",
+      "nome": "Salada, chicória, cenoura cozida, cebola, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=zX2g3L%2F5nQKoeVUWAwQ%2FFg%3D%3D"
+    },
+    {
+      "codigo": "BRC0421B",
+      "nome": "Salada, nabo, cenoura, chuchu, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=XcSXG8XSbxdE8N%2B0hE3rkw%3D%3D"
+    },
+    {
+      "codigo": "BRC0422B",
+      "nome": "Salada, nabo, cenoura, chuchu, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=wOMpjOsJVVJ0g0WTPiV2sw%3D%3D"
+    },
+    {
+      "codigo": "BRC0500B",
+      "nome": "Salada, cenoura, crua, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=eJzZDxWDkwIge6kFYbM%2B4w%3D%3D"
+    },
+    {
+      "codigo": "BRC0501B",
+      "nome": "Salada, cenoura, crua, c/ óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=pP4XmclYNc1f5MdV5XwPhQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0502B",
+      "nome": "Salada, cenoura, crua, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=gLF%2BMtAsW1p308KqK94gsg%3D%3D"
+    },
+    {
+      "codigo": "BRC0503B",
+      "nome": "Salada, cenoura, crua, c/ molho de salada - salsa, vinagre de maçã, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=0mKHXwA6cRT%2BkOxbadj9rA%3D%3D"
+    },
+    {
+      "codigo": "BRC0504B",
+      "nome": "Salada, cenoura, crua, s/ tempero, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=c09CPU3fBxX5a2SGSzblPw%3D%3D"
+    },
+    {
+      "codigo": "BRC0505B",
+      "nome": "Salada, cenoura, cozida, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=65hrdNxUMxoaAQh0W3H5jA%3D%3D"
+    },
+    {
+      "codigo": "BRC0506B",
+      "nome": "Salada, cenoura cozida, c/ óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=PKbXS%2BAAIISReELxUxoPjQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0507B",
+      "nome": "Salada, cenoura, cozida, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=eUaQvuWEFd2%2Fg6XczaEXLQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0508B",
+      "nome": "Salada, cenoura cozida, c/ molho de salada - salsa, vinagre de maçã, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=qCVIXZVLOt9wdI8FnYwaBQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0509B",
+      "nome": "Salada, cenoura cozida, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=QYZwAWRP4VBMIwh5mh9MPA%3D%3D"
+    },
+    {
+      "codigo": "BRC0510B",
+      "nome": "Salada, cenoura cozida, cebola, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=HsYjR%2BKRfCVTgiGMd6JYxw%3D%3D"
+    },
+    {
+      "codigo": "BRC0511B",
+      "nome": "Salada, cenoura, cozida, cebola, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=FZVA%2Bv1E1XC856yN0%2FlY1Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0512B",
+      "nome": "Salada, cenoura cozida, cebola, c/ óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=pK2hWqiONniQAvgjA0rd5Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0513B",
+      "nome": "Salada, cenoura cozida, cebola, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=4K1BFRhFbIB2zpBJvdiNRw%3D%3D"
+    },
+    {
+      "codigo": "BRC0514B",
+      "nome": "Salada, cenoura cozida, cebola, c/ molho de salada - salsa, vinagre de maçã , azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=f9UyJd0Qygxn3A6xjO6CwQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0515B",
+      "nome": "Salada, cenoura cozida, cebola, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=JWy1%2B7C9rtg5oTfYMIa3VQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0516B",
+      "nome": "Salada, cenoura cozida, cebola, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=08JV9nzOOdG0qpS5R%2FpVdQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0578A",
+      "nome": "Torta, vegetais, c/ cenoura, vagem e abobrinha, c/ queijo parmesão, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=%2FEI7wRo3tu8pd6kPeLXFJw%3D%3D"
+    },
+    {
+      "codigo": "BRC0581A",
+      "nome": "Torta, vegetais, c/ cenoura, abobrinha, milho e ervilha, c/ queijo parmesão, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=mzOokBH0bGIkUjc%2BZOOjEQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0701A",
+      "nome": "Cuscuz, marroquino (semolina), c/ cenoura, abobrinha, aipo e castanha de caju, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=x6tbRcKTIlRLlLwrRBTtKg%3D%3D"
+    },
+    {
+      "codigo": "BRC0702A",
+      "nome": "Cuscuz, marroquino (semolina), c/ cenoura, abobrinha, aipo e castanha de caju, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=iIAL4p%2BcwBWv7s1ITj3MJA%3D%3D"
+    },
+    {
+      "codigo": "BRC0786B",
+      "nome": "Farofa, cenoura com ovos, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=fHIhRdd44Kbz7YDY4szeXQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0787B",
+      "nome": "Farofa, cenoura com ovos, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=41XfQLv3jE92h6g2k2cpBQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0258F",
+      "nome": "Carne, boi, quarto dianteiro, s/ gordura, cozida, c/ batata e vegetais - cenoura, chuchu, vagem, c/ óleo, cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=bOKRXlhPAKQCfr7lAvU%2Bcg%3D%3D"
+    },
+    {
+      "codigo": "BRC0259F",
+      "nome": "Carne, boi, quarto dianteiro, s/ gordura, cozida, c/ batata e vegetais - cenoura, chuchu, vagem, c/ óleo, cebola e alho, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=m%2BAjZSN95de1tEYDUL%2FQSQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0260F",
+      "nome": "Carne, boi, quarto dianteiro, s/ gordura, cozida, c/ batata e vegetais - cenoura, chuchu, vagem, c/ molho de tomate (tomate, c/ óleo, cebola e alho), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=arh%2FoHL%2FBJxPmcyhTkhMXA%3D%3D"
+    },
+    {
+      "codigo": "BRC0264F",
+      "nome": "Carne, boi, quarto traseiro, s/ gordura, cozida, c/ batata e vegetais - cenoura, chuchu, vagem, c/ óleo, cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=WpAB29Hrswh7oAjzqnTcLw%3D%3D"
+    },
+    {
+      "codigo": "BRC0265F",
+      "nome": "Carne, boi, quarto traseiro, s/ gordura, cozida, c/ batata e vegetais - cenoura, chuchu, vagem, c/ óleo, cebola e alho, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=QyVV7Cj9fHh58ZqunZETSw%3D%3D"
+    },
+    {
+      "codigo": "BRC0266F",
+      "nome": "Carne, boi, quarto traseiro, s/ gordura, cozida, c/ batata e vegetais - cenoura, chuchu, vagem, c/ molho de tomate (tomate, c/ óleo, cebola e alho), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=5ljI6wzdDyzjRcv1ddXjsg%3D%3D"
+    },
+    {
+      "codigo": "BRC0356F",
+      "nome": "Carne, boi, acém moída, cozida, c/ batata e vegetais - cenoura, chuchu, vagem, c/ óleo, cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=5lVVzT2T%2FEeI3EQnPYd7pQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0357F",
+      "nome": "Carne, boi, acém moída, cozida, c/ batata e vegetais - cenoura, chuchu, vagem, c/ óleo, cebola e alho, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=No8ZcKUZUoWHGp5W8ddFrQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0360F",
+      "nome": "Carne, bovina, moída (acém), c/ vegetais (cenoura, chuchu e vagem), c/ óleo de soja, cebola e alho, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=7Uz1PwML2X7VxXVqXyHDNA%3D%3D"
+    },
+    {
+      "codigo": "BRC0361F",
+      "nome": "Carne, boi, acém moída, cozida, c/ vegetais - cenoura, chuchu, vagem, c/ óleo, cebola e alho, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=sSxb6bRGtpAZjpREEIE4Fg%3D%3D"
+    },
+    {
+      "codigo": "BRC0362F",
+      "nome": "Carne, boi, acém moída, cozida, c/ cenoura, abobrinha, milho, ervilha, c/ óleo, cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=BpKKx9hQn%2BLLN4n2R3Xd0Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0363F",
+      "nome": "Carne, boi, acém moída, cozida, c/ cenoura, abobrinha, milho, ervilha, c/ óleo, cebola e alho, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=5IkQo6caCzsy76MCC2YaMQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0386F",
+      "nome": "Carne, boi, flanco, s/ gordura, cozida, c/ batata e vegetais - cenoura, chuchu, vagem, c/ óleo, cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=vjxhujAO93cdw56ZIdVhkw%3D%3D"
+    },
+    {
+      "codigo": "BRC0387F",
+      "nome": "Carne, boi, flanco, s/ gordura, cozida, c/ batata e vegetais - cenoura, chuchu, vagem, c/ óleo, cebola e alho, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=8IHKhcrlnje8QTwNVqSRdA%3D%3D"
+    },
+    {
+      "codigo": "BRC0388F",
+      "nome": "Carne, boi, flanco, s/ gordura, cozida, c/ batata e vegetais - cenoura, chuchu, vagem, c/ molho de tomate (tomate, c/ óleo, cebola e alho), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ODU1GJJeasWiTJMpm0Xobw%3D%3D"
+    },
+    {
+      "codigo": "BRC0389F",
+      "nome": "Carne, boi, flanco, s/ gordura, cozida, c/ batata e cenoura, c/ óleo, cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=gZu9Ay%2FI71P8QdRWUeOT4w%3D%3D"
+    },
+    {
+      "codigo": "BRC0390F",
+      "nome": "Carne, boi, flanco, s/ gordura, cozida, c/ batata e cenoura, c/ óleo, cebola e alho, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=TgFaWSTqdKLINXfr%2FTb7Kg%3D%3D"
+    },
+    {
+      "codigo": "BRC0393F",
+      "nome": "Carne, boi, fraldinha, c/ gordura, cozida, c/ batata e cenoura, c/ óleo, cebola e alho, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=TcBqhW51yApRE5MA6TjAdQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0394F",
+      "nome": "Carne, boi, fraldinha, c/ gordura, cozida, c/ batata e cenoura, c/ óleo, cebola e alho, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=MMeY5ElXZvk2cpdSx9CMsg%3D%3D"
+    },
+    {
+      "codigo": "BRC0397F",
+      "nome": "Carne, boi, lagarto, cozida, c/ cenoura e ervilha, c/ molho de tomate (tomate, c/ óleo, cebola e alho), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=6CncAy71BD%2BqXluCLJBvFA%3D%3D"
+    },
+    {
+      "codigo": "BRC0398F",
+      "nome": "Carne, boi, lagarto, cozida, c/ cenoura e ervilha, c/ molho de tomate (tomate, c/ óleo, cebola e alho), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ht5ALv0QVLVTk2Y6i4y8ow%3D%3D"
+    },
+    {
+      "codigo": "BRC0399F",
+      "nome": "Carne, boi, lingua, cozida, c/ cenoura e ervilha, c/ molho de tomate (tomate, c/ óleo, cebola e alho), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=2ncquJoHz1dG03%2BMpBoV%2FA%3D%3D"
+    },
+    {
+      "codigo": "BRC0400F",
+      "nome": "Carne, boi, lingua, cozida, c/ cenoura e ervilha, c/ molho de tomate (tomate, c/ óleo, cebola e alho), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Ru9NK%2F5M1%2BoUCWyCNDtxAA%3D%3D"
+    }
+  ],
+  "Tomate": [
+    {
+      "codigo": "BRC0035B",
+      "nome": "Tomate, cru, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=0qP6TPuuLlp52oyveljmug%3D%3D"
+    },
+    {
+      "codigo": "BRC0098B",
+      "nome": "Tomate, extrato, industrializado, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=pX5wVWOXZJI9kK1zSzFl3g%3D%3D"
+    },
+    {
+      "codigo": "BRC0099B",
+      "nome": "Tomate, purê, industrializado, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Z07HVOyy7QAv2YYXis%2BIMg%3D%3D"
+    },
+    {
+      "codigo": "BRC0100B",
+      "nome": "Tomate, molho, industrializado, não peneirado, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=UBa5nSGsQe%2BEmtWoFjQqHA%3D%3D"
+    },
+    {
+      "codigo": "BRC0390B",
+      "nome": "Tomate seco, c/ azeite de oliva, artesanal, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=4GPJC8WeYYsVTXwZh6ed5Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0845B",
+      "nome": "Tomate recheado, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=WyXsNBp38hvuK1iOD%2BVpzw%3D%3D"
+    },
+    {
+      "codigo": "BRC0846B",
+      "nome": "Tomate recheado, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=UlC7eZDij6%2Fspt%2BGYDKKdw%3D%3D"
+    },
+    {
+      "codigo": "BRC0704B",
+      "nome": "Tomate, maduro, cozido, drenado, s/ óleo, c/ sal (dado importado)",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Q3vNGUeM%2FbBfLM9oi%2BiT2A%3D%3D"
+    },
+    {
+      "codigo": "BRC0968B",
+      "nome": "Tomate, maduro, assado, s/ óleo, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Unrg1hhjSyLDlnx2T4u0kQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0969B",
+      "nome": "Tomate, refogado (c/ óleo de soja, cebola e alho), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=QwKTWAnVz2gU%2FDf46XY0tg%3D%3D"
+    },
+    {
+      "codigo": "BRC0970B",
+      "nome": "Tomate, refogado (c/ óleo de soja, cebola e alho), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=cv0sHZjciLVKfVwCnLneRw%3D%3D"
+    },
+    {
+      "codigo": "BRC0966B",
+      "nome": "Tomate, maduro, assado, s/ óleo, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=hoGZWTuKrudTsL7aMzntQQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0967B",
+      "nome": "Tomate, maduro, cozido, s/ óleo, s/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=YxbYF5CJDH%2BRlXFCD5Ev3g%3D%3D"
+    },
+    {
+      "codigo": "BRC0221A",
+      "nome": "Salada, macarrão, trigo, c/ ovos, c/ vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=epG6xvCS7NcObzvctimGKw%3D%3D"
+    },
+    {
+      "codigo": "BRC0222A",
+      "nome": "Salada, macarrão, trigo, c/ ovos, c/ vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=xKS8E90FluJVzTOTIxZrYA%3D%3D"
+    },
+    {
+      "codigo": "BRC0234A",
+      "nome": "Macarrão, trigo, integral, c/ molho de tomate (tomate, c/ óleo, cebola e alho), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=%2Famoac3vlLTKM3ECDcnyrg%3D%3D"
+    },
+    {
+      "codigo": "BRC0235A",
+      "nome": "Macarrão, trigo, integral, c/ molho de tomate (tomate, c/ óleo, cebola e alho), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=91Ht74wSwFOKtOLwIBou9Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0242A",
+      "nome": "Sanduíche, cachorro quente (c/ pão hot dog* e salsicha tradicional*), c/ molho de tomate (molho ao sugo), milho* e ervilha* em conserva e batata palha*, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=%2F6Tx7apf263u6vbnf9HHFw%3D%3D"
+    },
+    {
+      "codigo": "BRC0243A",
+      "nome": "Sanduíche, cachorro quente (c/ pão hot dog* e salsicha tradicional*), c/ molho de tomate (molho ao sugo), Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=09YU%2Bhzo9jQxNjGtTpsFPQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0250A",
+      "nome": "Sanduíche, hambúrguer bovino* grelhado (c/ pão hambúrguer*), c/ tomate e alface, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=wP5K61h0%2FoIZHDn8ENEhJA%3D%3D"
+    },
+    {
+      "codigo": "BRC0251A",
+      "nome": "Sanduíche, hambúrguer bovino* grelhado (c/ pão hambúrguer*), c/ tomate, maionese e alface, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=76jXcZWeYAxSbFxlna7UaQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0252A",
+      "nome": "Sanduíche, cheese salad, hambúrguer bovino* grelhado (c/ pão hambúrguer;*), c/ queijo prato*, maionese, tomate e alface, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ycKz%2BAFe4vSr0%2FWJTwm%2BuA%3D%3D"
+    },
+    {
+      "codigo": "BRC0253A",
+      "nome": "Sanduíche, cheese salad, hambúrguer bovino* grelhado (c/ pão hambúrguer*), c/ queijo prato*, tomate e alface, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=JyTz7zxmmTVhgVxG2F5LYw%3D%3D"
+    },
+    {
+      "codigo": "BRC0254A",
+      "nome": "Sanduíche, pão francês* (cacetinho, de sal, média), c/ presunto cozido* , queijo muçarela*, tomate, maionese e alface, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=feZAWrJxC3bVbBpjjFWcSg%3D%3D"
+    },
+    {
+      "codigo": "BRC0255A",
+      "nome": "Sanduíche, pão francês* (cacetinho, de sal, média), c/ presunto cozido*, queijo muçarela*, tomate e alface lisa, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ssXwjOi651WmaXNtwRydyg%3D%3D"
+    },
+    {
+      "codigo": "BRC0256A",
+      "nome": "Sanduíche, americano (pão forma tradicional*), c/ ovo frito, presunto cozido*, queijo muçarela*, tomate, maionese e alface lisa, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=28wohkq17gQJIBYbJVop0Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0259A",
+      "nome": "Sanduíche, americano (pão forma integral), c/ ovo frito*, presunto cozido*, queijo muçarela*, tomate e alface lisa, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=VJyfwdErsTAmQCYoZBSSfQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0293A",
+      "nome": "Sanduíche, hambúrguer bovino* grelhado (c/ pão hambúrguer*), c/ ovo frito* (c/ sal), tomate e alface crespa, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=1Q4JihLnUolN2k1qR6NAFg%3D%3D"
+    },
+    {
+      "codigo": "BRC0294A",
+      "nome": "Sanduíche, hambúrguer bovino* grelhado (c/ pão hambúrguer*), c/ ovo frito* (c/ sal), tomate, maionese e alface crespa, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=5tiKPlS3htn%2B2pxVct2Vpw%3D%3D"
+    },
+    {
+      "codigo": "BRC0313A",
+      "nome": "Sanduíche, pão francês* (cacetinho, de sal, média), c/ mortadela*, queijo prato*, rúcula e tomate, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=rdKb9LDFkXg0I1ThCo0omA%3D%3D"
+    },
+    {
+      "codigo": "BRC0451A",
+      "nome": "Sanduíche, pão forma integral*, c/ peito de frango grelhado (s/ óleo, s/ sal), cenoura crua, tomate, maionese e alface americana, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=GdaqIk3mUamDg2v86ipK2g%3D%3D"
+    },
+    {
+      "codigo": "BRC0452A",
+      "nome": "Sanduíche, pão forma tradicional*, c/ peito de frango grelhado (s/ óleo, s/ sal), cenoura crua, tomate, maionese e alface americana, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=5U4RC7AExkAvMdVovO1lCg%3D%3D"
+    },
+    {
+      "codigo": "BRC0323A",
+      "nome": "Sanduíche, pão forma tradicional, c/ peito de frango grelhado, alface americana, cenoura crua e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=FqQBRoNV8HTagKDS52akSQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0813A",
+      "nome": "Sanduíche, pão forma integral, c/ queijo minas, c/ alface americana, cenoura crua, tomate, c/ molho de iogurte",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=YfWtXItL7tjnR%2FPRmJ9uGQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0325A",
+      "nome": "Sanduíche, pão forma integral*, c/ peito de frango grelhado (s/ óleo, s/ sal), cenoura crua, tomate, molho de iogurte e alface americana, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=yfmEPPHgokZcMepUF8WmbA%3D%3D"
+    },
+    {
+      "codigo": "BRC0326A",
+      "nome": "Sanduíche, pão forma tradicional*, c/ peito de frango grelhado (s/ óleo, s/ sal), cenoura crua, tomate, molho de iogurte e alface americana, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=bH0jc%2FWk6Oq%2FLdrs2UkkZw%3D%3D"
+    },
+    {
+      "codigo": "BRC0365A",
+      "nome": "Sanduíche, cachorro quente, (c/ pão para hot dog e salsicha de frango), c/ milho, ervilha, batata palha, c/ molho de tomate (tomate, c/ óleo, cebola e alho, c/ sal)",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=WEFymkih3lafjDqE2T5AaA%3D%3D"
+    },
+    {
+      "codigo": "BRC0366A",
+      "nome": "Sanduíche, cachorro quente, (c/ pão para hot dog e salsicha de frango), c/ molho de tomate (tomate, c/ óleo, cebola e alho, c/ sal)",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=9OT%2BO7fyZmabl7h7c3aDIQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0373A",
+      "nome": "Sanduíche, peito de frango grelhado (c/ pão de hambúrguer), c/ alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=IX0zhu2TTVl6FfF8YZFApQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0374A",
+      "nome": "Sanduíche, peito de frango grelhado (c/ pão de hambúrguer), c/ alface, tomate, c/ maionese",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=hNkKuJz0hHDHwT8uQLGpJg%3D%3D"
+    },
+    {
+      "codigo": "BRC0375A",
+      "nome": "Sanduíche, peito de frango grelhado (c/ pão de hambúrguer), c/ queijo prato, alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=9sNyBCSyU12pU1q1x66Ang%3D%3D"
+    },
+    {
+      "codigo": "BRC0376A",
+      "nome": "Sanduíche, peito de frango grelhado (c/ pão de hambúrguer), c/ queijo prato, alface, tomate, c/ maionese",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=tPWkc%2FfFLzxv7zrhll3xiA%3D%3D"
+    },
+    {
+      "codigo": "BRC0383A",
+      "nome": "Sanduíche, baguete, c/ queijo muçarela, alface, tomate e mortadela",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=zdgbA6lhebO%2B6LQohVAUmg%3D%3D"
+    },
+    {
+      "codigo": "BRC0384A",
+      "nome": "Sanduíche, baguete, c/ queijo muçarela, alface, tomate, peito de frango grelhado, c/ maionese",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=BryhQvU1984Ge%2ButOintPg%3D%3D"
+    },
+    {
+      "codigo": "BRC0385A",
+      "nome": "Sanduíche, baguete, c/ queijo muçarela, alface, tomate e presunto",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=xAL6ei35m5i%2BOVxInMQQ2g%3D%3D"
+    },
+    {
+      "codigo": "BRC0386A",
+      "nome": "Sanduíche, baguete, c/ queijo muçarela, alface, tomate, atum em conserva, c/ maionese",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=KBq0dTGgj6Y7G1S8yIlBNQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0387A",
+      "nome": "Sanduíche, baguete, c/ queijo muçarela, alface, tomate e salame",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=I76xyly9tMhYO%2Bw%2BSQr1aQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0388A",
+      "nome": "Sanduíche, pão forma integral, c/ queijo minas, alface americana, cenoura crua, tomate, c/ maionese",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=iMMkhiYrhapGTSw%2BMjFi9A%3D%3D"
+    },
+    {
+      "codigo": "BRC0389A",
+      "nome": "Sanduíche, pão forma integral, c/ queijo minas, c/ alface americana, atum em conserva, tomate, c/ maionese",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=pVUwh4J6CuTn1l%2BmqgikoA%3D%3D"
+    },
+    {
+      "codigo": "BRC0390A",
+      "nome": "Sanduíche, pão forma integral, c/ queijo minas, alface americana, tomate, peito de peru defumado, pepino, c/ maionese",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=alAJ6%2FlO5K7lTFL4ZlXlqA%3D%3D"
+    },
+    {
+      "codigo": "BRC0392A",
+      "nome": "Sanduíche, pão forma integral, c/ queijo minas, alface americana, atum em conserva, tomate, c/ molho de iogurte",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=OFBtsSb7sob5GLcBRq0vUA%3D%3D"
+    },
+    {
+      "codigo": "BRC0393A",
+      "nome": "Sanduíche, pão forma integral, c/ queijo minas, alface americana, tomate, peito de peru defumado, pepino, c/ molho de iogurte",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=8IiDvNSxbQAk%2Bf%2FpqrToDg%3D%3D"
+    },
+    {
+      "codigo": "BRC0841A",
+      "nome": "Sanduíche, hambúrguer bovino grelhado (c/ pão hambúrguer), c/ queijo cheddar, alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=xhljEY6Q8Ji5nkWGd%2Fg2Kw%3D%3D"
+    },
+    {
+      "codigo": "BRC0842A",
+      "nome": "Sanduíche, pão sírio, c/ peito de frango grelhado (c/ óleo de soja), alface americana, cenoura crua, tomate, c/ molho de iogurte, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=vrGvyLuHoJ6MeVD0e7SjJg%3D%3D"
+    },
+    {
+      "codigo": "BRC0843A",
+      "nome": "Sanduíche, pão sírio, c/ peito de frango grelhado, alface americana, cenoura crua, tomate e molho de iogurte, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=xXJ3YUf3C1Jq2fgksgIpOA%3D%3D"
+    },
+    {
+      "codigo": "BRC0411A",
+      "nome": "Sanduíche, americano (pão francês, c/ presunto, queijo muçarela, alface, tomate e ovo frito)",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=V9IjTe3uXiGn97CB8nWwQg%3D%3D"
+    },
+    {
+      "codigo": "BRC0713A",
+      "nome": "Sanduíche, pão forma tradicional, c/ peito de frango grelhado, alface americana, cenoura crua e tomate, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=9vXa9pZcRJgiePKRzvh4Lw%3D%3D"
+    },
+    {
+      "codigo": "BRC0754A",
+      "nome": "Sanduíche, pão francês, c/ queijo minas, alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=KyGKTIIOhbKKdp3WCnrbBA%3D%3D"
+    },
+    {
+      "codigo": "BRC0755A",
+      "nome": "Sanduíche, pão forma integral, c/ queijo minas, alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=GwQJO38YkPuINdOuh%2FT0kA%3D%3D"
+    },
+    {
+      "codigo": "BRC0756A",
+      "nome": "Sanduíche, pão forma tradicional, c/ queijo minas, alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=TU9mYgRc9mH7P4GhAN%2FRBQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0757A",
+      "nome": "Sanduíche, pão sírio, c/ queijo minas, alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=X6dwbEvRRSigZ1%2Fd69VhjQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0758A",
+      "nome": "Sanduíche, pão francês, c/ ricota e temperos, alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=SGr3gRG8ezsQDQEpRqHMvQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0759A",
+      "nome": "Sanduíche, pão forma integral, c/ ricota e temperos, alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=EoAtOEalTQMoTs3qaWMJMg%3D%3D"
+    },
+    {
+      "codigo": "BRC0760A",
+      "nome": "Sanduíche, pão forma tradicional, c/ ricota e temperos, alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=CZ72Hl7aX5dHd7NmhgJyOg%3D%3D"
+    },
+    {
+      "codigo": "BRC0761A",
+      "nome": "Sanduíche, pão sírio, c/ ricota e temperos, alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=AC4c5ECANF%2F%2Bog9RVpU1%2BQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0762A",
+      "nome": "Sanduíche, pão francês, c/ alface, tomate, cenoura, c/ molho de iogurte",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=kVbsBUtKjkHy0rdf2ZkUjg%3D%3D"
+    },
+    {
+      "codigo": "BRC0763A",
+      "nome": "Sanduíche, pão forma integral, c/ alface, tomate, cenoura, c/ molho de iogurte",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ZJmizsTrxJWBKKjm1OZEQg%3D%3D"
+    },
+    {
+      "codigo": "BRC0764A",
+      "nome": "Sanduíche, pão forma tradicional, c/ alface, tomate, cenoura, c/ molho de iogurte",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=mi6WzXc%2F4H2qhVgtLARsXw%3D%3D"
+    },
+    {
+      "codigo": "BRC0765A",
+      "nome": "Sanduíche, pão sírio, c/ alface, tomate, cenoura, c/ molho de iogurte",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=KSeiWBefLjsSj%2BdUO715kQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0766A",
+      "nome": "Sanduíche, pão francês, c/ alface, tomate, cenoura e pepino",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=8ZtAqkhRgdoW6mKe244x4A%3D%3D"
+    },
+    {
+      "codigo": "BRC0767A",
+      "nome": "Sanduíche, pão forma integral, c/ alface, tomate, cenoura e pepino",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=fnPgk8X5%2Fp6dQBtAWU3%2BEA%3D%3D"
+    },
+    {
+      "codigo": "BRC0768A",
+      "nome": "Sanduíche, pão forma tradicional, c/ alface, tomate, cenoura e pepino",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=jW2kSfoxPgJI9Fdv0ZfKUQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0769A",
+      "nome": "Sanduíche, pão sírio, c/ alface, tomate, cenoura e pepino",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=AZXUOz6pO6pe8l2ziMrE6A%3D%3D"
+    },
+    {
+      "codigo": "BRC0852A",
+      "nome": "Sanduíche, pão forma integral, c/ queijo minas, alface americana, cenoura crua, tomate, c/ maionese",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=BWjAwlrfBgy1iaPv6XjfsA%3D%3D"
+    },
+    {
+      "codigo": "BRC0071E",
+      "nome": "Peixe, água salgada, sardinha, conserva, c/ molho de tomate, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=7Mw37eOLVBETIxhVhl3Q9g%3D%3D"
+    },
+    {
+      "codigo": "BRC0072E",
+      "nome": "Peixe, água salgada, sardinha, filé, conserva, c/ molho de tomate temperado, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=MdJ0p0blCnCshtf0kmzpBQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0187B",
+      "nome": "Salada, agrião, c/ molho vinagrete (tomate, cebola, salsinha, vinagre e óleo), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ImMGqXcmrghh2VLDy6Vatw%3D%3D"
+    },
+    {
+      "codigo": "BRC0188B",
+      "nome": "Salada, agrião, c/ molho vinagrete (tomate, cebola, salsinha, vinagre e óleo), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ZFSzktfpnb9VWXZEMDKczw%3D%3D"
+    },
+    {
+      "codigo": "BRC0189B",
+      "nome": "Salada, almeirão, c/ molho vinagrete (tomate, cebola, salsinha, vinagre e óleo), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=h68ldp9EnG22415ZbaAZhw%3D%3D"
+    },
+    {
+      "codigo": "BRC0190B",
+      "nome": "Salada, almeirão, c/ molho vinagrete (tomate, cebola, salsinha, vinagre e óleo), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=aeeJXi4dkhc7pIemAhD6kA%3D%3D"
+    },
+    {
+      "codigo": "BRC0312B",
+      "nome": "Salada, batata, inglesa, s/ casca, cozida, c/ molho vinagrete (tomate, cebola, salsinha, vinagre e óleo), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=8nrFeRajOR7i%2BFdBJ%2BfH8w%3D%3D"
+    },
+    {
+      "codigo": "BRC0313B",
+      "nome": "Salada, batata, inglesa, s/ casca, cozida, c/ molho vinagrete (tomate, cebola, salsinha, vinagre e óleo), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=bMmfkv%2BiZhkfn6ofVLZ1EA%3D%3D"
+    },
+    {
+      "codigo": "BRC0290B",
+      "nome": "Batata, inglesa, cozida, s/ casca, c/ molho de tomate (tomate, c/ óleo, cebola e alho), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=DdYYjMmqxtogGJ2YARp0rQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0291B",
+      "nome": "Batata, inglesa, s/ casca, cozida, c/ molho de tomate (molho sugo), c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=iJ8UQIeUTaHx6x7JVMHwRQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0195B",
+      "nome": "Salada, berinjela, c/ casca, cozida, c/ molho vinagrete (tomate, cebola, salsinha, vinagre e óleo), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=yeMpoSsxaYMGE0%2B3tq466A%3D%3D"
+    },
+    {
+      "codigo": "BRC0196B",
+      "nome": "Salada, berinjela, c/ casca, cozida, c/ molho vinagrete (tomate, cebola, salsinha, vinagre e óleo), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=6U8DBtVj8ewDlt1qnpe7hg%3D%3D"
+    },
+    {
+      "codigo": "BRC0324B",
+      "nome": "Salada, beterraba, crua, c/ molho vinagrete (tomate, cebola, salsinha, vinagre e óleo), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=UYfugyHkMk19ofksOWYKpg%3D%3D"
+    },
+    {
+      "codigo": "BRC0325B",
+      "nome": "Salada, beterrraba, crua, c/ molho vinagrete (tomate, cebola, salsinha, vinagre e óleo), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=RWug%2B6%2FXLYqaqNavK%2BqL6A%3D%3D"
+    },
+    {
+      "codigo": "BRC0191B",
+      "nome": "Salada, brócolis, flor, cozido, c/ molho vinagrete (tomate, cebola, salsinha, vinagre e óleo), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=%2FbhVKgO3Ok0%2BVVX8PjRgDg%3D%3D"
+    },
+    {
+      "codigo": "BRC0192B",
+      "nome": "Salada, brócolis, flor, cozido, c/ molho vinagrete (tomate, cebola, salsinha, vinagre e óleo), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=2K8%2F0GpGk6hQTazvIBdDyA%3D%3D"
+    },
+    {
+      "codigo": "BRC0288B",
+      "nome": "Cebola, branca, cozida, c/ molho de tomate (tomate, c/ óleo, cebola e alho), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=S9w5Yv5%2BrtwEtZRmIP6CXQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0289B",
+      "nome": "Cebola, branca, cozida, c/ molho de tomate (tomate, c/ óleo, cebola e alho), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=QjU1ChrOlzbou3UxsrcWIg%3D%3D"
+    },
+    {
+      "codigo": "BRC0197B",
+      "nome": "Salada, cebola, cozida, c/ molho vinagrete (tomate, cebola, salsinha, vinagre e óleo), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=zi2upS73CgjUfAS%2FvYfR%2BA%3D%3D"
+    },
+    {
+      "codigo": "BRC0198B",
+      "nome": "Salada, cebola, cozida, c/ molho vinagrete (tomate, cebola, salsinha, vinagre e óleo), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ACK7ToSPkyBAC13eCB3hdA%3D%3D"
+    },
+    {
+      "codigo": "BRC0338B",
+      "nome": "Salada, cenoura, crua, c/ molho vinagrete (tomate, cebola, salsinha, vinagre e óleo), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=FiWXfkuJLnKQkbO24RzcoA%3D%3D"
+    },
+    {
+      "codigo": "BRC0339B",
+      "nome": "Salada, cenoura, crua, c/ molho vinagrete (tomate, cebola, salsinha, vinagre e óleo), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=%2F5QqeRmZQCyuac11OK7QEw%3D%3D"
+    },
+    {
+      "codigo": "BRC0340B",
+      "nome": "Cenoura, s/ casca, cozida, c/ molho de tomate (tomate, c/ óleo, cebola e alho), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=hLaITX3tW81oSflGlRfQag%3D%3D"
+    },
+    {
+      "codigo": "BRC0341B",
+      "nome": "Cenoura, s/ casca, cozida, c/ molho de tomate (tomate, c/ óleo, cebola e alho), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ZKMrFgLLITw6HeoSeEYrvA%3D%3D"
+    },
+    {
+      "codigo": "BRC0205B",
+      "nome": "Salada, chicória, crua, c/ molho vinagrete (tomate, cebola, salsinha, vinagre e óleo), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=jtaL4tqIxsFHQSRpdxgyVQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0206B",
+      "nome": "Salada, chicória, crua, c/ molho vinagrete (tomate, cebola, salsinha, vinagre e óleo), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=vmwVjS83qfuFCruS6aF%2BDg%3D%3D"
+    }
+  ],
+  "Alface": [
+    {
+      "codigo": "BRC0009B",
+      "nome": "Alface, crua, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=xPXGryn5%2BLTCDCmLaCRxVw%3D%3D"
+    },
+    {
+      "codigo": "BRC0060B",
+      "nome": "Alface, crespa, crua, brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=SlDKZ7oxgL%2FyOINmk8OR5A%3D%3D"
+    },
+    {
+      "codigo": "BRC0061B",
+      "nome": "Alface, lisa, crua, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=tjwlP%2BkoVMlfJfHf%2Ftc%2FVA%3D%3D"
+    },
+    {
+      "codigo": "BRC0062B",
+      "nome": "Alface, roxa, crua, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=KYHlbcrU9DB%2Fo2BupSTE7g%3D%3D"
+    },
+    {
+      "codigo": "BRC0063B",
+      "nome": "Alface, americana, crua, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=y9b%2BBTZ32wC6UdQ1TXMacQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0250A",
+      "nome": "Sanduíche, hambúrguer bovino* grelhado (c/ pão hambúrguer*), c/ tomate e alface, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=wP5K61h0%2FoIZHDn8ENEhJA%3D%3D"
+    },
+    {
+      "codigo": "BRC0251A",
+      "nome": "Sanduíche, hambúrguer bovino* grelhado (c/ pão hambúrguer*), c/ tomate, maionese e alface, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=76jXcZWeYAxSbFxlna7UaQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0252A",
+      "nome": "Sanduíche, cheese salad, hambúrguer bovino* grelhado (c/ pão hambúrguer;*), c/ queijo prato*, maionese, tomate e alface, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ycKz%2BAFe4vSr0%2FWJTwm%2BuA%3D%3D"
+    },
+    {
+      "codigo": "BRC0253A",
+      "nome": "Sanduíche, cheese salad, hambúrguer bovino* grelhado (c/ pão hambúrguer*), c/ queijo prato*, tomate e alface, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=JyTz7zxmmTVhgVxG2F5LYw%3D%3D"
+    },
+    {
+      "codigo": "BRC0254A",
+      "nome": "Sanduíche, pão francês* (cacetinho, de sal, média), c/ presunto cozido* , queijo muçarela*, tomate, maionese e alface, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=feZAWrJxC3bVbBpjjFWcSg%3D%3D"
+    },
+    {
+      "codigo": "BRC0255A",
+      "nome": "Sanduíche, pão francês* (cacetinho, de sal, média), c/ presunto cozido*, queijo muçarela*, tomate e alface lisa, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ssXwjOi651WmaXNtwRydyg%3D%3D"
+    },
+    {
+      "codigo": "BRC0256A",
+      "nome": "Sanduíche, americano (pão forma tradicional*), c/ ovo frito, presunto cozido*, queijo muçarela*, tomate, maionese e alface lisa, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=28wohkq17gQJIBYbJVop0Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0259A",
+      "nome": "Sanduíche, americano (pão forma integral), c/ ovo frito*, presunto cozido*, queijo muçarela*, tomate e alface lisa, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=VJyfwdErsTAmQCYoZBSSfQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0293A",
+      "nome": "Sanduíche, hambúrguer bovino* grelhado (c/ pão hambúrguer*), c/ ovo frito* (c/ sal), tomate e alface crespa, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=1Q4JihLnUolN2k1qR6NAFg%3D%3D"
+    },
+    {
+      "codigo": "BRC0294A",
+      "nome": "Sanduíche, hambúrguer bovino* grelhado (c/ pão hambúrguer*), c/ ovo frito* (c/ sal), tomate, maionese e alface crespa, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=5tiKPlS3htn%2B2pxVct2Vpw%3D%3D"
+    },
+    {
+      "codigo": "BRC0451A",
+      "nome": "Sanduíche, pão forma integral*, c/ peito de frango grelhado (s/ óleo, s/ sal), cenoura crua, tomate, maionese e alface americana, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=GdaqIk3mUamDg2v86ipK2g%3D%3D"
+    },
+    {
+      "codigo": "BRC0452A",
+      "nome": "Sanduíche, pão forma tradicional*, c/ peito de frango grelhado (s/ óleo, s/ sal), cenoura crua, tomate, maionese e alface americana, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=5U4RC7AExkAvMdVovO1lCg%3D%3D"
+    },
+    {
+      "codigo": "BRC0323A",
+      "nome": "Sanduíche, pão forma tradicional, c/ peito de frango grelhado, alface americana, cenoura crua e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=FqQBRoNV8HTagKDS52akSQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0813A",
+      "nome": "Sanduíche, pão forma integral, c/ queijo minas, c/ alface americana, cenoura crua, tomate, c/ molho de iogurte",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=YfWtXItL7tjnR%2FPRmJ9uGQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0325A",
+      "nome": "Sanduíche, pão forma integral*, c/ peito de frango grelhado (s/ óleo, s/ sal), cenoura crua, tomate, molho de iogurte e alface americana, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=yfmEPPHgokZcMepUF8WmbA%3D%3D"
+    },
+    {
+      "codigo": "BRC0326A",
+      "nome": "Sanduíche, pão forma tradicional*, c/ peito de frango grelhado (s/ óleo, s/ sal), cenoura crua, tomate, molho de iogurte e alface americana, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=bH0jc%2FWk6Oq%2FLdrs2UkkZw%3D%3D"
+    },
+    {
+      "codigo": "BRC0373A",
+      "nome": "Sanduíche, peito de frango grelhado (c/ pão de hambúrguer), c/ alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=IX0zhu2TTVl6FfF8YZFApQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0374A",
+      "nome": "Sanduíche, peito de frango grelhado (c/ pão de hambúrguer), c/ alface, tomate, c/ maionese",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=hNkKuJz0hHDHwT8uQLGpJg%3D%3D"
+    },
+    {
+      "codigo": "BRC0375A",
+      "nome": "Sanduíche, peito de frango grelhado (c/ pão de hambúrguer), c/ queijo prato, alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=9sNyBCSyU12pU1q1x66Ang%3D%3D"
+    },
+    {
+      "codigo": "BRC0376A",
+      "nome": "Sanduíche, peito de frango grelhado (c/ pão de hambúrguer), c/ queijo prato, alface, tomate, c/ maionese",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=tPWkc%2FfFLzxv7zrhll3xiA%3D%3D"
+    },
+    {
+      "codigo": "BRC0383A",
+      "nome": "Sanduíche, baguete, c/ queijo muçarela, alface, tomate e mortadela",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=zdgbA6lhebO%2B6LQohVAUmg%3D%3D"
+    },
+    {
+      "codigo": "BRC0384A",
+      "nome": "Sanduíche, baguete, c/ queijo muçarela, alface, tomate, peito de frango grelhado, c/ maionese",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=BryhQvU1984Ge%2ButOintPg%3D%3D"
+    },
+    {
+      "codigo": "BRC0385A",
+      "nome": "Sanduíche, baguete, c/ queijo muçarela, alface, tomate e presunto",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=xAL6ei35m5i%2BOVxInMQQ2g%3D%3D"
+    },
+    {
+      "codigo": "BRC0386A",
+      "nome": "Sanduíche, baguete, c/ queijo muçarela, alface, tomate, atum em conserva, c/ maionese",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=KBq0dTGgj6Y7G1S8yIlBNQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0387A",
+      "nome": "Sanduíche, baguete, c/ queijo muçarela, alface, tomate e salame",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=I76xyly9tMhYO%2Bw%2BSQr1aQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0388A",
+      "nome": "Sanduíche, pão forma integral, c/ queijo minas, alface americana, cenoura crua, tomate, c/ maionese",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=iMMkhiYrhapGTSw%2BMjFi9A%3D%3D"
+    },
+    {
+      "codigo": "BRC0389A",
+      "nome": "Sanduíche, pão forma integral, c/ queijo minas, c/ alface americana, atum em conserva, tomate, c/ maionese",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=pVUwh4J6CuTn1l%2BmqgikoA%3D%3D"
+    },
+    {
+      "codigo": "BRC0390A",
+      "nome": "Sanduíche, pão forma integral, c/ queijo minas, alface americana, tomate, peito de peru defumado, pepino, c/ maionese",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=alAJ6%2FlO5K7lTFL4ZlXlqA%3D%3D"
+    },
+    {
+      "codigo": "BRC0392A",
+      "nome": "Sanduíche, pão forma integral, c/ queijo minas, alface americana, atum em conserva, tomate, c/ molho de iogurte",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=OFBtsSb7sob5GLcBRq0vUA%3D%3D"
+    },
+    {
+      "codigo": "BRC0393A",
+      "nome": "Sanduíche, pão forma integral, c/ queijo minas, alface americana, tomate, peito de peru defumado, pepino, c/ molho de iogurte",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=8IiDvNSxbQAk%2Bf%2FpqrToDg%3D%3D"
+    },
+    {
+      "codigo": "BRC0841A",
+      "nome": "Sanduíche, hambúrguer bovino grelhado (c/ pão hambúrguer), c/ queijo cheddar, alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=xhljEY6Q8Ji5nkWGd%2Fg2Kw%3D%3D"
+    },
+    {
+      "codigo": "BRC0842A",
+      "nome": "Sanduíche, pão sírio, c/ peito de frango grelhado (c/ óleo de soja), alface americana, cenoura crua, tomate, c/ molho de iogurte, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=vrGvyLuHoJ6MeVD0e7SjJg%3D%3D"
+    },
+    {
+      "codigo": "BRC0843A",
+      "nome": "Sanduíche, pão sírio, c/ peito de frango grelhado, alface americana, cenoura crua, tomate e molho de iogurte, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=xXJ3YUf3C1Jq2fgksgIpOA%3D%3D"
+    },
+    {
+      "codigo": "BRC0411A",
+      "nome": "Sanduíche, americano (pão francês, c/ presunto, queijo muçarela, alface, tomate e ovo frito)",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=V9IjTe3uXiGn97CB8nWwQg%3D%3D"
+    },
+    {
+      "codigo": "BRC0713A",
+      "nome": "Sanduíche, pão forma tradicional, c/ peito de frango grelhado, alface americana, cenoura crua e tomate, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=9vXa9pZcRJgiePKRzvh4Lw%3D%3D"
+    },
+    {
+      "codigo": "BRC0754A",
+      "nome": "Sanduíche, pão francês, c/ queijo minas, alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=KyGKTIIOhbKKdp3WCnrbBA%3D%3D"
+    },
+    {
+      "codigo": "BRC0755A",
+      "nome": "Sanduíche, pão forma integral, c/ queijo minas, alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=GwQJO38YkPuINdOuh%2FT0kA%3D%3D"
+    },
+    {
+      "codigo": "BRC0756A",
+      "nome": "Sanduíche, pão forma tradicional, c/ queijo minas, alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=TU9mYgRc9mH7P4GhAN%2FRBQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0757A",
+      "nome": "Sanduíche, pão sírio, c/ queijo minas, alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=X6dwbEvRRSigZ1%2Fd69VhjQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0758A",
+      "nome": "Sanduíche, pão francês, c/ ricota e temperos, alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=SGr3gRG8ezsQDQEpRqHMvQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0759A",
+      "nome": "Sanduíche, pão forma integral, c/ ricota e temperos, alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=EoAtOEalTQMoTs3qaWMJMg%3D%3D"
+    },
+    {
+      "codigo": "BRC0760A",
+      "nome": "Sanduíche, pão forma tradicional, c/ ricota e temperos, alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=CZ72Hl7aX5dHd7NmhgJyOg%3D%3D"
+    },
+    {
+      "codigo": "BRC0761A",
+      "nome": "Sanduíche, pão sírio, c/ ricota e temperos, alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=AC4c5ECANF%2F%2Bog9RVpU1%2BQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0762A",
+      "nome": "Sanduíche, pão francês, c/ alface, tomate, cenoura, c/ molho de iogurte",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=kVbsBUtKjkHy0rdf2ZkUjg%3D%3D"
+    },
+    {
+      "codigo": "BRC0763A",
+      "nome": "Sanduíche, pão forma integral, c/ alface, tomate, cenoura, c/ molho de iogurte",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ZJmizsTrxJWBKKjm1OZEQg%3D%3D"
+    },
+    {
+      "codigo": "BRC0764A",
+      "nome": "Sanduíche, pão forma tradicional, c/ alface, tomate, cenoura, c/ molho de iogurte",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=mi6WzXc%2F4H2qhVgtLARsXw%3D%3D"
+    },
+    {
+      "codigo": "BRC0765A",
+      "nome": "Sanduíche, pão sírio, c/ alface, tomate, cenoura, c/ molho de iogurte",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=KSeiWBefLjsSj%2BdUO715kQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0766A",
+      "nome": "Sanduíche, pão francês, c/ alface, tomate, cenoura e pepino",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=8ZtAqkhRgdoW6mKe244x4A%3D%3D"
+    },
+    {
+      "codigo": "BRC0767A",
+      "nome": "Sanduíche, pão forma integral, c/ alface, tomate, cenoura e pepino",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=fnPgk8X5%2Fp6dQBtAWU3%2BEA%3D%3D"
+    },
+    {
+      "codigo": "BRC0768A",
+      "nome": "Sanduíche, pão forma tradicional, c/ alface, tomate, cenoura e pepino",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=jW2kSfoxPgJI9Fdv0ZfKUQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0769A",
+      "nome": "Sanduíche, pão sírio, c/ alface, tomate, cenoura e pepino",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=AZXUOz6pO6pe8l2ziMrE6A%3D%3D"
+    },
+    {
+      "codigo": "BRC0852A",
+      "nome": "Sanduíche, pão forma integral, c/ queijo minas, alface americana, cenoura crua, tomate, c/ maionese",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=BWjAwlrfBgy1iaPv6XjfsA%3D%3D"
+    },
+    {
+      "codigo": "BRC0376B",
+      "nome": "Salada, vegetais crus (tomate, alface, cebola), c/ azeite de oliva, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=nyvpngc24EDKKqA2uwPbWg%3D%3D"
+    },
+    {
+      "codigo": "BRC0579B",
+      "nome": "Salada, alface crespa, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=at5LCicq%2Fd5QfZJSq3vv%2Fg%3D%3D"
+    },
+    {
+      "codigo": "BRC0580B",
+      "nome": "Salada, alface crespa, c/ óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=TMwP%2FnBUsFd47UT3A9i0dQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0581B",
+      "nome": "Salada, alface crespa, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=9N7UNmhlnISypgfFDfy%2BhA%3D%3D"
+    },
+    {
+      "codigo": "BRC0582B",
+      "nome": "Salada, alface crespa, c/ molho de salada - salsa, vinagre de maçã, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=byvj4vdjMj4GxxBA6rH3kQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0583B",
+      "nome": "Salada, alface crespa, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=yyfTZuvahy0EOwo6afLe%2FQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0584B",
+      "nome": "Salada, alface crespa, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Bq2IDSGX7vgNcQa9%2FhogPQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0585B",
+      "nome": "Salada, alface lisa, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=4Xba%2Fxvjt8U%2Fop5JnikN%2Fg%3D%3D"
+    },
+    {
+      "codigo": "BRC0586B",
+      "nome": "Salada, alface lisa, c/ óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=G%2BWex5nK92%2BzjJUNiTv2NQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0587B",
+      "nome": "Salada, alface lisa, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=TRIllpapSwDBxD6lzHbvfw%3D%3D"
+    },
+    {
+      "codigo": "BRC0588B",
+      "nome": "Salada, alface lisa, c/ molho de salada - salsa, vinagre de maçã, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=xIF89CaCPSaJ3XUTrrxxHw%3D%3D"
+    },
+    {
+      "codigo": "BRC0589B",
+      "nome": "Salada, alface lisa, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=rPuH0Sns%2Fb2xkZnPNLyXUQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0590B",
+      "nome": "Salada, alface lisa, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=BE%2B105xWdsKwiEwgviv3fw%3D%3D"
+    },
+    {
+      "codigo": "BRC0591B",
+      "nome": "Salada, alface americana, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=hPUwgePhkUCeXAyZ14%2BTrw%3D%3D"
+    },
+    {
+      "codigo": "BRC0592B",
+      "nome": "Salada, alface americana, c/ óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=mQYvAeLYzGLJiP%2BGIOzkkQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0593B",
+      "nome": "Salada, alface americana, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=y%2BL8DepcG3K5Y%2BZGgxiU8Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0594B",
+      "nome": "Salada, alface americana, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=j2JNL041RBv%2FqBa9Zv27zw%3D%3D"
+    },
+    {
+      "codigo": "BRC0595B",
+      "nome": "Salada, alface americana, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=RfoJ3wsFMFwpQ6TKXHn5Cg%3D%3D"
+    },
+    {
+      "codigo": "BRC0596B",
+      "nome": "Salada, alface americana, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=WQaFO%2BCBzRakFQZL8jiKGA%3D%3D"
+    },
+    {
+      "codigo": "BRC0610B",
+      "nome": "Salada, alface americana, tomate, palmito, azeitona preta, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=PQSahleHl%2FbJi9043baOjA%3D%3D"
+    },
+    {
+      "codigo": "BRC0611B",
+      "nome": "Salada, alface americana, tomate, palmito, azeitona preta, c/ óleo de soja, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=gjEPwV2XXVgkU%2FUJtATomg%3D%3D"
+    },
+    {
+      "codigo": "BRC0613B",
+      "nome": "Salada, alface americana, tomate, palmito, azeitona preta, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=e%2B0XCREdpVWuCC%2FidRTz0w%3D%3D"
+    },
+    {
+      "codigo": "BRC0614B",
+      "nome": "Salada, alface americana, tomate, palmito, azeitona preta, c/ molho de salada - salsa, vinagre de maçã, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=kZ9hyeZss%2Bf9fvvIXAjQOQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0615B",
+      "nome": "Salada, alface americana, tomate, palmito, azeitona preta, s/ óleo, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=N2Uj2tU6c4KxOyUFsPzuoQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0491A",
+      "nome": "Sanduíche, pão forma integral*, c/ atum em conserva*, tomate, maionese e alface, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=SfLoaFte4utGBh1IfqMMtQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0493A",
+      "nome": "Sanduíche, c/ pão francês*, c/ carne grelhada (miolo da alcatra, s/ óleo, s/ sal), tomate, alface crespa e maionese, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=7ikycm02ft2SKaNhkxBkAw%3D%3D"
+    },
+    {
+      "codigo": "BRC0502A",
+      "nome": "Sanduíche, vegetariano, pão forma integral*, tomate, pimentão e berinjela grelhados, cream cheese*, alface crespa, cebola, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=xm0FvTDBZFV2aaWlETe8dA%3D%3D"
+    },
+    {
+      "codigo": "BRC0557A",
+      "nome": "Sanduíche, pão forma tradicional*, c/ ovo mexido, queijo muçarela* e alface, s/ óleo, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=XrlTBM5Jz2%2FLdMX73tuR1w%3D%3D"
+    },
+    {
+      "codigo": "BRC0865A",
+      "nome": "Sanduíche, cheese salada, hambúrguer bovino grelhado (c/ pão hambúrguer), c/ queijo muçarela, alface e tomate",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Mb6kb9kDZoWKWE0TQmg6Kg%3D%3D"
+    },
+    {
+      "codigo": "BRC0866A",
+      "nome": "Sanduíche, cheese salada, hambúrguer bovino grelhado (c/ pão hambúrguer), c/ queijo muçarela, alface, tomate e maionese",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=IzvH%2FPkHLzSkAdV0AnCraw%3D%3D"
+    },
+    {
+      "codigo": "BRC0258A",
+      "nome": "Sanduíche, americano (pão forma integral*), c/ ovo frito*, presunto cozido*, queijo muçarela*, maionese, tomate e alface lisa, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=YW95bJUM5kXCifn2tMt5aQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0984B",
+      "nome": "Salada, alface crespa, c/ molho vinagrete (tomate, cebola, salsa, vinagre, azeite de oliva), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=tH57Tu44EYdqOYPUZ75VJw%3D%3D"
+    },
+    {
+      "codigo": "BRC0985B",
+      "nome": "Salada, alface lisa, c/ molho vinagrete (tomate, cebola, salsa, vinagre, azeite de oliva), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=h9d%2FSqtx3luuoM3eJStmYg%3D%3D"
+    },
+    {
+      "codigo": "BRC0986B",
+      "nome": "Salada, alface americana, c/ molho vinagrete (tomate, cebola, salsa, vinagre, azeite de oliva), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=43ewlBVzq1TsQzuqGdBTKA%3D%3D"
+    },
+    {
+      "codigo": "BRC0257A",
+      "nome": "Sanduíche, americano (pão forma tradicional*), c/ ovo frito, presunto cozido, queijo muçarela, tomate e alface lisa, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=WvSDq15zotq2z2j7pPd6wA%3D%3D"
+    },
+    {
+      "codigo": "BRC0318A",
+      "nome": "Sanduíche, hambúrguer bovino* grelhado (c/ pão hambúrguer*), c/ ovo frito* (c/ sal), queijo prato*, tomate, maionese e alface crespa, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=CWTf9qq70gUz0o2dglEn1Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0622A",
+      "nome": "Sanduíche, pão forma tradicional, c/ peito de frango grelhado (c/ óleo de soja), alface americana, cenoura crua, tomate, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=KncK2vhaMmkc3aaK%2FNYXYg%3D%3D"
+    },
+    {
+      "codigo": "BRC0500A",
+      "nome": "Sanduíche, pão forma integral*, c/ sardinha em conserva*, maionese, tomate e alface crespa, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=gHuDLc8lNw8olgYXQ5DqgA%3D%3D"
+    },
+    {
+      "codigo": "BRC0848A",
+      "nome": "Sanduíche, hambúrguer bovino grelhado* (c/ pão hambúrguer*), c/ ovo frito* (c/ sal), queijo prato*, tomate, toucinho defumado* (bacon), maionese e alface crespa, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=m%2BdawM8upGIXObhLLGM%2FSg%3D%3D"
+    },
+    {
+      "codigo": "BRC0936A",
+      "nome": "Sanduíche, pão sírio, c/ peito de frango grelhado (c/ óleo de soja), alface americana, cenoura crua, tomate, c/ queijo minas frescal, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=bbH5tpjuJca86J2j0Yqusw%3D%3D"
+    },
+    {
+      "codigo": "BRC1021B",
+      "nome": "Salada, alface roxa, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=NRiR0oEuq2EXD13eUBR4Dw%3D%3D"
+    },
+    {
+      "codigo": "BRC1060A",
+      "nome": "Sanduíche, hambúrguer frango grelhado (c/ pão hambúrguer), c/ queijo muçarelca, alface, tomate e maionese",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=kWU5JiQzFkxsxwKo2RNB6w%3D%3D"
+    },
+    {
+      "codigo": "BRC1075A",
+      "nome": "Sanduíche, hambúrguer de grão de bico (pão vegano), alface e tomate, c/ maionese vegana",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=HxCbiSH8xL9hU6NU8%2B7q1w%3D%3D"
+    }
+  ],
+  "Azeite": [
+    {
+      "codigo": "BRC0001D",
+      "nome": "Azeite, dendê, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=WFAAODS%2FUDff6UUWBog6RQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0002D",
+      "nome": "Azeite, oliva, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=w7W2G%2BufgdZTOD9pMqaihw%3D%3D"
+    },
+    {
+      "codigo": "BRC0039D",
+      "nome": "Azeite, oliva, cozido",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Yu%2FxYf%2FG5V5ap5Y3kmyO2w%3D%3D"
+    },
+    {
+      "codigo": "BRC0044D",
+      "nome": "Azeite, oliva, frito",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=EW2V3ZUakjm8IeGDSge3VA%3D%3D"
+    },
+    {
+      "codigo": "BRC0049D",
+      "nome": "Azeite, oliva, assado",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=lcX6FRXvl7vBAPD8qemPPA%3D%3D"
+    },
+    {
+      "codigo": "BRC0221A",
+      "nome": "Salada, macarrão, trigo, c/ ovos, c/ vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=epG6xvCS7NcObzvctimGKw%3D%3D"
+    },
+    {
+      "codigo": "BRC0222A",
+      "nome": "Salada, macarrão, trigo, c/ ovos, c/ vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=xKS8E90FluJVzTOTIxZrYA%3D%3D"
+    },
+    {
+      "codigo": "BRC0390B",
+      "nome": "Tomate seco, c/ azeite de oliva, artesanal, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=4GPJC8WeYYsVTXwZh6ed5Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0364B",
+      "nome": "Salada, legumes cozidos (batata, cenoura, chuchu), c/ azeite, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=yaPneNEFikOUF24ZwVHZHg%3D%3D"
+    },
+    {
+      "codigo": "BRC0369B",
+      "nome": "Salada, legumes cozidos (cenoura, couve-flor, vagem), c/ azeite de oliva, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=%2F0xfcqKJMDzH4Rnl%2B3OwZQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0376B",
+      "nome": "Salada, vegetais crus (tomate, alface, cebola), c/ azeite de oliva, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=nyvpngc24EDKKqA2uwPbWg%3D%3D"
+    },
+    {
+      "codigo": "BRC0381B",
+      "nome": "Salada, c/ arroz polido, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=9LdGSuWqMqM7gnorkYhITg%3D%3D"
+    },
+    {
+      "codigo": "BRC0382B",
+      "nome": "Salada, c/ arroz integral, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=HXJ6btj154jC22OtxT%2FpZQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0383B",
+      "nome": "Salada, atum, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=qzCuFzws6Sm7iu1mkvvAcw%3D%3D"
+    },
+    {
+      "codigo": "BRC0384B",
+      "nome": "Salada, batata com atum, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=bYgqnam7v%2B3XjYJYbVjiWg%3D%3D"
+    },
+    {
+      "codigo": "BRC0385B",
+      "nome": "Salada, bacalhau com batata, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=7Yrwtk%2FkWJtWB4Rz%2FocAsQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0173T",
+      "nome": "Salada, feijão fradinho, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Hsw3V%2F2OO0nM1JgVhUBong%3D%3D"
+    },
+    {
+      "codigo": "BRC0174T",
+      "nome": "Salada, grão-de-bico, c/ azeite de oliva, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=CNCKLS93X61KnE8b%2BsHHRw%3D%3D"
+    },
+    {
+      "codigo": "BRC0175T",
+      "nome": "Salada, lentilha, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=twz9xXPSTpSVg8SOAh%2FczA%3D%3D"
+    },
+    {
+      "codigo": "BRC0391B",
+      "nome": "Salada, folhas, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=c%2BjepZLE2HVcl5KMXDCAEg%3D%3D"
+    },
+    {
+      "codigo": "BRC0396B",
+      "nome": "Salada, folhas, vegetais e frutas, c/ azeite de oliva, c/ sal, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=moVwD6NBcAN2Po84mNCjPw%3D%3D"
+    },
+    {
+      "codigo": "BRC0397B",
+      "nome": "Salada, folhas, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=OGLbPP5BrMaDGiCoM2D7Pg%3D%3D"
+    },
+    {
+      "codigo": "BRC0402B",
+      "nome": "Salada, folhas, vegetais e frutas, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=sU2l0n7x%2FSnoxLKjuaGWqg%3D%3D"
+    },
+    {
+      "codigo": "BRC0403B",
+      "nome": "Salada, folhas e vegetais, c/ azeite de oliva e c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=CD5%2FeVjk%2FlmkitRpYXGjIQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0406B",
+      "nome": "Salada, folhas e vegetais, muçarela de búfala, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=bDpWwLIdcbUODkpw4c1Kyg%3D%3D"
+    },
+    {
+      "codigo": "BRC0407B",
+      "nome": "Salada, vegetais crus, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=RSeyQhhsQL9fu%2BKH9VHRQg%3D%3D"
+    },
+    {
+      "codigo": "BRC0415B",
+      "nome": "Salada, abóbora cabotian (japonesa) cozida, cebola, salsa, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=1MjPOdToo2qZ5HdZqvfzKQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0416B",
+      "nome": "Salada, abóbora cabotian (japonesa) cozida, cebola, salsa, c/ azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Ny0m7WnVtyKooTRvm%2FpGmw%3D%3D"
+    },
+    {
+      "codigo": "BRC0417B",
+      "nome": "Salada, agrião, batata, rabanete, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=MrxTHYjod4wYChiH0Qf17A%3D%3D"
+    },
+    {
+      "codigo": "BRC0418B",
+      "nome": "Salada, agrião, batata, rabanete, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=kha4cfhSohc%2FPJaN2%2BsiXA%3D%3D"
+    },
+    {
+      "codigo": "BRC0419B",
+      "nome": "Salada, chicória, cenoura cozida, cebola, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=3CzqZScYS7reLXWYyrF2eQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0420B",
+      "nome": "Salada, chicória, cenoura cozida, cebola, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=zX2g3L%2F5nQKoeVUWAwQ%2FFg%3D%3D"
+    },
+    {
+      "codigo": "BRC0421B",
+      "nome": "Salada, nabo, cenoura, chuchu, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=XcSXG8XSbxdE8N%2B0hE3rkw%3D%3D"
+    },
+    {
+      "codigo": "BRC0422B",
+      "nome": "Salada, nabo, cenoura, chuchu, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=wOMpjOsJVVJ0g0WTPiV2sw%3D%3D"
+    },
+    {
+      "codigo": "BRC0423B",
+      "nome": "Salada, repolho, vagem cozida, tomate, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=SGU1Jm3Uw2K%2F%2B3V0awdfUA%3D%3D"
+    },
+    {
+      "codigo": "BRC0424B",
+      "nome": "Salada, repolho, vagem cozida, tomate, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=jgl1aV%2B8IYa458zs3tt2OQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0425B",
+      "nome": "Salada, vegetais crus, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=bM8%2F8wpv29eECGuOMEsAwg%3D%3D"
+    },
+    {
+      "codigo": "BRC0428B",
+      "nome": "Salada, vegetais assados, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Ju4cSFiNSIy%2FfWFiVvG%2FaA%3D%3D"
+    },
+    {
+      "codigo": "BRC0432B",
+      "nome": "Salada, c/ arroz polido, c/ azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=bXfjtQovoYDWoa0kjaBRSg%3D%3D"
+    },
+    {
+      "codigo": "BRC0433B",
+      "nome": "Salada, c/ arroz integral, c/ azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=44qdTb7J8Il%2FEUDfBJl9%2Fw%3D%3D"
+    },
+    {
+      "codigo": "BRC0436B",
+      "nome": "Salada, atum, c/ azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=fBDHZb0EB4AIEz6K%2FigFEg%3D%3D"
+    },
+    {
+      "codigo": "BRC0438B",
+      "nome": "Salada, batata com atum, c/ azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=zyLDgERgqfXHPUL93s4Gng%3D%3D"
+    },
+    {
+      "codigo": "BRC0440B",
+      "nome": "Salada, bacalhau com batata, c/ azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=vKRDbr9Xn6%2BMRdnP1uqu8A%3D%3D"
+    },
+    {
+      "codigo": "BRC0176T",
+      "nome": "Salada, feijão fradinho, c/ azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=oamBay1A4StcqJ2wdHFx4Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0178T",
+      "nome": "Salada, grão-de-bico, c/ azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=96t4Yx6sMQ9Le2Qm3PFZjQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0180T",
+      "nome": "Salada, lentilha, c/ azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=aCGZVuSYuTri1n00qZyWVw%3D%3D"
+    },
+    {
+      "codigo": "BRC0448B",
+      "nome": "Salada, vegetais e frutas, c/ azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=EdTLu2dfO2tDCiZcQpY0TA%3D%3D"
+    },
+    {
+      "codigo": "BRC0450B",
+      "nome": "Salada, vegetais e frutas, c/ azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=D19ACMalOKCQ2wIGKLqPmQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0452B",
+      "nome": "Salada, folhas e vegetais, c/ azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ODqoCTcIIuSvx3AofsizKQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0454B",
+      "nome": "Salada, folhas e vegetais, c/ muçarela de búfala, c/ azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=XxKOOzjA%2FJfNEHaecs7Gkw%3D%3D"
+    },
+    {
+      "codigo": "BRC0656B",
+      "nome": "Salada, trigo em grão, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=E%2FUctjK612n9iC9aUdXRaQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0657B",
+      "nome": "Salada, trigo em grão, c/ azeite de oliva, s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=h%2FY7v0F0rOTjq7ZgoFQz%2Fg%3D%3D"
+    },
+    {
+      "codigo": "BRC0658B",
+      "nome": "Salada, almeirão, cru, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=XgApw81fJ%2BamVl93Qo1hVA%3D%3D"
+    },
+    {
+      "codigo": "BRC0660B",
+      "nome": "Salada, almeirão, cru, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=N%2B6l8VXDKKguDaPB1sqbIw%3D%3D"
+    },
+    {
+      "codigo": "BRC0661B",
+      "nome": "Salada, almeirão, cru, c/ molho de salada - salsa, vinagre de maçã, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=BEJNwn1jG6RrT06%2BM1eT1w%3D%3D"
+    },
+    {
+      "codigo": "BRC0663B",
+      "nome": "Salada, acelga, crua, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=V1fVjV5WNA0GyBD3dye1Ng%3D%3D"
+    },
+    {
+      "codigo": "BRC0665B",
+      "nome": "Salada, acelga, crua, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=zA4rYYZHv%2B9Mv4RJm%2BauUg%3D%3D"
+    },
+    {
+      "codigo": "BRC0666B",
+      "nome": "Salada, acelga, crua, c/ molho de salada - salsa, vinagre de maçã, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=squP18Zo%2B5iTKCeSnf7gRQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0668B",
+      "nome": "Salada, acelga, crua, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=KnJ4vlscUS4y54UbCQuLzQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0669B",
+      "nome": "Salada, agrião, cru, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Z3K5Y5PVa%2B3ja2sX%2FLQbvw%3D%3D"
+    },
+    {
+      "codigo": "BRC0671B",
+      "nome": "Salada, agrião, cru, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=LPOfAGLdfxW4WMGsWzw2pw%3D%3D"
+    },
+    {
+      "codigo": "BRC0672B",
+      "nome": "Salada, agrião, cru, c/ molho de salada - salsa, vinagre de maçã, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=UyVUotR5oLsVGPr5wKMcOQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0674B",
+      "nome": "Salada, beterraba crua, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=QECWATtpFusS7%2F5%2BHofrpw%3D%3D"
+    },
+    {
+      "codigo": "BRC0676B",
+      "nome": "Salada, beterraba crua, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=SDIZsQm99kAiCPzwwAFUtg%3D%3D"
+    },
+    {
+      "codigo": "BRC0677B",
+      "nome": "Salada, beterraba, crua, c/ molho de salada - salsa, vinagre de maçã, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=IwTb3YAisghIs8vdpiapkA%3D%3D"
+    },
+    {
+      "codigo": "BRC0679B",
+      "nome": "Salada, beterraba cozida, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=kRVLNHFDmtc0GsuZPxavoQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0490B",
+      "nome": "Salada, beterraba cozida, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=g7ewQDetJ1qt3c1zxGFbgw%3D%3D"
+    },
+    {
+      "codigo": "BRC0491B",
+      "nome": "Salada, beterraba, cozida, c/ molho de salada - salsa, vinagre de maçã, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=tCzaZvXcok7VmFHTNu4pWw%3D%3D"
+    },
+    {
+      "codigo": "BRC0493B",
+      "nome": "Salada, beterraba cozida, c/ molho vinagrete (tomate, cebola, salsa, vinagre, azeite de oliva), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=c5Wa%2BLjnLZMCQTURv7P8Ug%3D%3D"
+    },
+    {
+      "codigo": "BRC0494B",
+      "nome": "Salada, beterraba cozida, cebola, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=mhu84qpDgXgeXHItacE%2FHQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0496B",
+      "nome": "Salada, beterraba cozida, cebola, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=tXqnyAsurSHztK0bkxXdSQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0497B",
+      "nome": "Salada, beterraba cozida, cebola, c/ molho de salada - salsa, vinagre de maçã, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ZWZbGMx5HDf8RiD%2FBSwl%2Bw%3D%3D"
+    },
+    {
+      "codigo": "BRC0499B",
+      "nome": "Salada, beterraba cozida, cebola, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ztQpx70fO%2BI3bCIVvpQuPw%3D%3D"
+    },
+    {
+      "codigo": "BRC0500B",
+      "nome": "Salada, cenoura, crua, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=eJzZDxWDkwIge6kFYbM%2B4w%3D%3D"
+    },
+    {
+      "codigo": "BRC0502B",
+      "nome": "Salada, cenoura, crua, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=gLF%2BMtAsW1p308KqK94gsg%3D%3D"
+    },
+    {
+      "codigo": "BRC0503B",
+      "nome": "Salada, cenoura, crua, c/ molho de salada - salsa, vinagre de maçã, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=0mKHXwA6cRT%2BkOxbadj9rA%3D%3D"
+    },
+    {
+      "codigo": "BRC0505B",
+      "nome": "Salada, cenoura, cozida, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=65hrdNxUMxoaAQh0W3H5jA%3D%3D"
+    },
+    {
+      "codigo": "BRC0507B",
+      "nome": "Salada, cenoura, cozida, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=eUaQvuWEFd2%2Fg6XczaEXLQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0508B",
+      "nome": "Salada, cenoura cozida, c/ molho de salada - salsa, vinagre de maçã, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=qCVIXZVLOt9wdI8FnYwaBQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0510B",
+      "nome": "Salada, cenoura cozida, cebola, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=HsYjR%2BKRfCVTgiGMd6JYxw%3D%3D"
+    },
+    {
+      "codigo": "BRC0511B",
+      "nome": "Salada, cenoura, cozida, cebola, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=FZVA%2Bv1E1XC856yN0%2FlY1Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0513B",
+      "nome": "Salada, cenoura cozida, cebola, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=4K1BFRhFbIB2zpBJvdiNRw%3D%3D"
+    },
+    {
+      "codigo": "BRC0514B",
+      "nome": "Salada, cenoura cozida, cebola, c/ molho de salada - salsa, vinagre de maçã , azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=f9UyJd0Qygxn3A6xjO6CwQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0516B",
+      "nome": "Salada, cenoura cozida, cebola, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=08JV9nzOOdG0qpS5R%2FpVdQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0517B",
+      "nome": "Salada, couve crua, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=CihOHN6zX9r2atL8rcsfcw%3D%3D"
+    },
+    {
+      "codigo": "BRC0519B",
+      "nome": "Salada, couve crua, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=rzAVOgCngHt9OhTbTIZdVg%3D%3D"
+    },
+    {
+      "codigo": "BRC0520B",
+      "nome": "Salada, couve crua, c/ molho de salada - salsa, vinagre de maçã, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=H9EQlOkIc%2BBdorrAiJSB7Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0522B",
+      "nome": "Salada, pepino, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=pzkgh5mpkU8oi112HP1CQA%3D%3D"
+    },
+    {
+      "codigo": "BRC0524B",
+      "nome": "Salada, pepino, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=wqH0SWXCP7yctDbql%2FxjvA%3D%3D"
+    },
+    {
+      "codigo": "BRC0525B",
+      "nome": "Salada, pepino, c/ molho de salada - salsa, vinagre de maçã, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=eFUkBygTUoW99LGKCXQcrg%3D%3D"
+    },
+    {
+      "codigo": "BRC0527B",
+      "nome": "Salada, pepino, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=%2FhgRPrYAHPBVy2E2SsmA6A%3D%3D"
+    },
+    {
+      "codigo": "BRC0528B",
+      "nome": "Salada, pepino, cebola, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=%2FeAcSphK5D7mg5NGiXiong%3D%3D"
+    },
+    {
+      "codigo": "BRC0530B",
+      "nome": "Salada, pepino, cebola, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=q9LSQh5AURA9hz9GSo2NdA%3D%3D"
+    },
+    {
+      "codigo": "BRC0531B",
+      "nome": "Salada, pepino, cebola, c/ molho de salada - salsa, vinagre de maçã, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=dmjfSw5RWN%2BDcchfJj9ewg%3D%3D"
+    },
+    {
+      "codigo": "BRC0533B",
+      "nome": "Salada, pepino, cebola, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=uBwL%2F2RAXrkcCUYn1Y37rQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0534B",
+      "nome": "Salada, pimentão verde, cru, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=hNyUOaT%2FBfRdZQBbZFEs9A%3D%3D"
+    },
+    {
+      "codigo": "BRC0536B",
+      "nome": "Salada, pimentão verde, cru, c/ molho de salada - salsa, suco de limão, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=SrBeZd8jVQP1ooBdxS3pKA%3D%3D"
+    },
+    {
+      "codigo": "BRC0537B",
+      "nome": "Salada, pimentão verde, cru, c/ molho de salada - salsa, vinagre de maçã, azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=OJiJVSVX9bgXVFN3WXfSXg%3D%3D"
+    },
+    {
+      "codigo": "BRC0539B",
+      "nome": "Salada, pimentão verde, cru, c/ molho vinagrete (tomate, cebola, salsa, vinagre e azeite de oliva), s/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=chFDGdO6pRnQyYBTcC5L%2BA%3D%3D"
+    },
+    {
+      "codigo": "BRC0540B",
+      "nome": "Salada, pimentão verde, amarelo e vermelho crus, c/ azeite de oliva, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=AoU0%2BrfMyi3QXWiZiKhYUw%3D%3D"
+    }
+  ],
+  "Castanha-do-brasil": [
+    {
+      "codigo": "BRC0003U",
+      "nome": "Castanha-do-brasil, crua, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=LmAv8bwWhrrQVHk6itA03w%3D%3D"
+    }
+  ],
+  "Abacate": [
+    {
+      "codigo": "BRC0001C",
+      "nome": "Abacate, polpa, in natura, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=QagWPGGLCefQ%2BGqdjKbs2w%3D%3D"
+    },
+    {
+      "codigo": "BRC0019D",
+      "nome": "Óleo, abacate, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=dm2ZbHiQB8U0uleLsfc3dg%3D%3D"
+    },
+    {
+      "codigo": "BRC0078G",
+      "nome": "Vitamina, leite de vaca integral c/ abacate, s/ açúcar",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=%2FjZF8UzGxgmw7I3gFFHkcw%3D%3D"
+    },
+    {
+      "codigo": "BRC0079G",
+      "nome": "Vitamina, c/ leite de vaca integral, c/ abacate, c/ açúcar, Brasil",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=o8N%2FeEiRNMsjnuf6yNVT1Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0419N",
+      "nome": "Creme de abacate, c/ morango, c/ iorgurte integral, s/ açúcar",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Nc8lYT%2Fxl9ZXp%2Fskr17y9w%3D%3D"
+    },
+    {
+      "codigo": "BRC0421N",
+      "nome": "Creme de abacate, c/ iorgurte integral, s/ açúcar",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=80kPQ6B0mNSSFxYbOWCIVQ%3D%3D"
+    },
+    {
+      "codigo": "BRC0428N",
+      "nome": "Papa de abacate e banana, s/ açúcar",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=YAW0LVBPsJrxvlceDziYQQ%3D%3D"
+    },
+    {
+      "codigo": "BRC1090A",
+      "nome": "Vitamina, c/ bebida vegetal à base de arroz, c/ banana, mamão e abacate, c/ açúcar mascavo",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=COEyo5KrYpd0txuidg0G%2Fg%3D%3D"
+    },
+    {
+      "codigo": "BRC1091A",
+      "nome": "Vitamina, c/ bebida vegetal à base de arroz, c/ banana, mamão e abacate, s/ açúcar",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=egk7tamlbZ0lDq1sY3CB4Q%3D%3D"
+    },
+    {
+      "codigo": "BRC0268T",
+      "nome": "Vitamina, c/ bebida vegetal à base de amêndoa, c/ banana, mamão e abacate, c/ açúcar mascavo",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Bx%2FFZAdkI918Rlu38S0bBg%3D%3D"
+    },
+    {
+      "codigo": "BRC0269T",
+      "nome": "Vitamina, c/ bebida vegetal à base de amêndoa, c/ banana, mamão e abacate, s/ açúcar",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=CUsOwnXeTKniF%2FS4WjxaPQ%3D%3D"
+    },
+    {
+      "codigo": "BRC1141A",
+      "nome": "Sanduíche, pão ciabatta, c/ tofu, queijo vegetal de castanha de caju, molho pesto de manjericão, pasta de abacate, cebola caramelizada, tomate seco, molho de pimenta e orégano",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=yuEVZI2nJh0neErZ9aBryg%3D%3D"
+    },
+    {
+      "codigo": "BRC1084B",
+      "nome": "Pasta de abacate, c/ sal",
+      "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=ljT3lFcQIlpk1fttAH2riw%3D%3D"
+    }
+  ]
+}

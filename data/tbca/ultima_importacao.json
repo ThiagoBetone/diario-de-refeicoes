@@ -1,0 +1,32 @@
+{
+  "inseridos": 25,
+  "ja_existentes": 0,
+  "backup": "C:\\git\\prj_004\\backups\\refeicoes-20260917T013129617507.db",
+  "codigos": [
+    "BRC0016A",
+    "BRC0208A",
+    "BRC0001T",
+    "BRC0254T",
+    "BRC0008T",
+    "BRC0018T",
+    "BRC0024A",
+    "BRC0155A",
+    "BRC0042B",
+    "BRC0114F",
+    "BRC0010J",
+    "BRC0486E",
+    "BRC0044G",
+    "BRC0020G",
+    "BRC0011C",
+    "BRC0020C",
+    "BRC0045C",
+    "BRC0045B",
+    "BRC0020B",
+    "BRC0047B",
+    "BRC0035B",
+    "BRC0060B",
+    "BRC0002D",
+    "BRC0003U",
+    "BRC0001C"
+  ]
+}

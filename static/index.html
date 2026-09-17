@@ -1,0 +1,237 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Diário de refeições</title>
+<link rel="stylesheet" href="/static/vendor/bootstrap.min.css">
+<style>
+  :root{--bs-body-bg:#f4f7f5;--bs-body-color:#243b32;--bs-link-color:#18734c;--bs-link-hover-color:#105035}
+  [hidden]{display:none!important}
+  body{font-family:system-ui,sans-serif}
+  main{max-width:1120px!important}
+  .hero{background:linear-gradient(120deg,#173f30,#286b4f);color:#fff;border-radius:1.5rem}
+  .hero p,.hero small{color:#d2e8da}
+  h1{letter-spacing:-1.2px;font-weight:700}h2{font-size:1.25rem;font-weight:650}
+  .card{--bs-card-bg:#fff;border:1px solid #e3ebe6;border-radius:1.25rem}
+  .campos{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem}
+  label{font-size:.875rem;font-weight:600;display:block}
+  .form-control,.form-select{margin-top:.45rem;background-color:#fff;min-height:46px}
+  .form-control:focus,.form-select:focus{border-color:#44966d;box-shadow:0 0 0 .2rem #19875420}
+  .totais{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1rem}
+  .total{padding:1.25rem;border:1px solid #e3ebe6;border-radius:1rem;background:#f3f8f5;font-size:.85rem;color:#52695d}
+  .total strong{display:block;color:#194b34;font-size:2rem;margin-top:.25rem;font-variant-numeric:tabular-nums}
+  .total:nth-child(2){background:#eff5fc}.total:nth-child(3){background:#fff8e9}.total:nth-child(4){background:#f6f0fb}
+  .acoes{display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1rem}
+  #resultados{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));max-height:290px;overflow:auto;padding:.25rem;margin-bottom:1.25rem}
+  .food-option{text-align:left;white-space:normal;font-size:.875rem;border-color:#d7e4dc;background:#fff;padding:.8rem 1rem}
+  .food-option:focus,.food-option.active{background:#e5f2e9;color:#164c30;border-color:#198754}
+  #selecionado{background:#edf5ef;border-radius:.75rem;padding:1rem;font-size:.9rem}
+  #medida-ajuda{font-size:.825rem;color:#607568;margin-top:.75rem}
+  #previa{font-size:.95rem;font-weight:600;color:#176c44}
+  #subtotal{background:#edf5ef;padding:1rem;border-radius:.75rem;font-weight:600}
+  .step{font-size:.95rem;font-weight:650;margin:1.6rem 0 1rem;display:flex;align-items:center;gap:.6rem}
+  .step-number{display:inline-grid;place-items:center;background:#e5f2e9;color:#176c44;border-radius:50%;width:1.8rem;height:1.8rem}
+  .table{--bs-table-bg:transparent;--bs-table-hover-bg:#f3f8f5;font-size:.875rem}.table td,.table th{padding:1rem .75rem}
+  .table th{color:#607568;font-size:.8rem;font-weight:600}.table small{color:#64776c;margin-top:.3rem}
+  #mensagem:empty,#alimento-status:empty{display:none}#mensagem,#alimento-status{border-left:3px solid #198754;padding:.8rem 1rem;background:#eaf4ee;border-radius:.5rem}
+  .source-note{font-size:.75rem;color:#697b71;line-height:1.6}
+  .btn{border-radius:.65rem}.btn-success{--bs-btn-bg:#21754f;--bs-btn-border-color:#21754f}
+  @media(max-width:767px){.campos,.totais{grid-template-columns:repeat(2,minmax(0,1fr))}.hero{border-radius:1rem}.total{padding:1rem}.total strong{font-size:1.6rem}#resultados{grid-template-columns:1fr}h1{font-size:1.9rem}}
+  @media(max-width:420px){.campos{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<main class="container py-4 py-md-5">
+  <header class="hero p-4 p-md-5 mb-4 d-flex flex-column flex-md-row align-items-md-center justify-content-between gap-3">
+    <div><small class="text-uppercase fw-semibold" style="letter-spacing:2px">Meu diário alimentar</small><h1 class="mt-2 mb-2">Um dia de cada vez.</h1><p class="mb-0">Suas refeições, seus alimentos e tudo o que você consumiu.</p></div>
+    <a href="/docs" class="btn btn-outline-light flex-shrink-0 align-self-start align-self-md-center">Explorar a API ↗</a>
+  </header>
+  <label style="max-width:220px">Dia consultado<input class="form-control" id="dia" type="date" required></label>
+  <section class="card shadow-sm p-3 p-md-4 my-4" aria-label="Resumo diário"><div class="d-flex justify-content-between align-items-center mb-3"><h2 class="mb-0">Seu resumo do dia</h2><span class="badge rounded-pill text-bg-light border">Consumo registrado</span></div><div class="totais" id="totais"></div><p class="text-body-secondary small mt-3 mb-0" id="contagem"></p></section>
+  <section class="card shadow-sm p-3 p-md-4 my-4"><h2>Montar refeição</h2><p>Escolha os alimentos do catálogo e informe gramas ou unidades consumidas. Os nutrientes são calculados automaticamente.</p>
+    <form id="formulario"><div class="campos">
+      <label>Tipo de refeição<input class="form-control" name="nome" list="tipos" maxlength="120" value="Café da manhã" required></label>
+      <datalist id="tipos"><option>Café da manhã</option><option>Almoço</option><option>Lanche</option><option>Jantar</option><option>Ceia</option></datalist>
+      <label>Horário<input class="form-control" name="horario" type="time" value="08:00" required></label>
+    </div><p class="step"><span class="step-number">1</span> Pesquise e selecione um alimento</p>
+    <label>Pesquisar alimento<input class="form-control" id="busca" type="search" placeholder="Ex.: pão, leite, banana" maxlength="120"></label>
+    <p class="source-note mt-2 mb-2"><small>Catálogo com alimentos da <a href="https://www.tbca.net.br/base-dados/composicao_alimentos.php" target="_blank" rel="noopener">TBCA (USP/FoRC)</a> e cadastros manuais. Valores por 100 g da parte comestível; carboidratos totais. Confira o modo de preparo. Dados TBCA: CC BY-NC-ND 4.0, uso não comercial.</small></p><div id="resultados" class="acoes" aria-live="polite"></div>
+    <p id="selecionado">Nenhum alimento selecionado.</p>
+    <div class="campos">
+      <label>Medida<select class="form-select" id="medida"><option value="gramas">Gramas</option><option value="unidades">Unidades</option></select></label>
+      <label><span id="quantidade-label">Quantidade (g)</span><input class="form-control" id="gramas" type="number" min="0.01" max="10000" step="0.01" value="100"></label>
+      <label id="peso-label" hidden>Peso de uma unidade (g)<input class="form-control" id="peso-unidade" type="number" min="0.01" max="10000" step="0.01"></label>
+    </div><p id="medida-ajuda">Informe o peso da parte comestível.</p>
+    <p id="previa"></p><button type="button" id="adicionar" class="btn btn-outline-success" disabled>Adicionar à refeição</button>
+    <p class="step"><span class="step-number">2</span> Confira os itens e salve a refeição</p><ul id="itens" class="list-group list-group-flush mb-3"></ul><p id="subtotal"></p>
+    <button class="btn btn-success px-4 py-2" type="submit" id="salvar" disabled>Salvar refeição</button></form>
+  </section>
+  <section class="card shadow-sm p-3 p-md-4 my-4"><h2>Cadastrar alimento no catálogo</h2><p>Informe os nutrientes de <strong>100 g do alimento</strong>, conforme o rótulo ou sua referência. Diferencie preparos e marcas no nome, por exemplo: arroz cozido.</p>
+    <form id="alimento-form"><div class="campos">
+      <label>Nome do alimento<input class="form-control" name="nome" maxlength="120" required></label>
+      <label>Calorias por 100 g (kcal)<input class="form-control" name="calorias" type="number" min="0" max="10000" step="0.01" required></label>
+      <label>Proteínas por 100 g (g)<input class="form-control" name="proteinas" type="number" min="0" max="100" step="0.01" required></label>
+      <label>Carboidratos por 100 g (g)<input class="form-control" name="carboidratos" type="number" min="0" max="100" step="0.01" required></label>
+      <label>Gorduras por 100 g (g)<input class="form-control" name="gorduras" type="number" min="0" max="100" step="0.01" required></label>
+      <label>Peso por unidade (g, opcional)<input class="form-control" name="peso_unidade_gramas" type="number" min="0.01" max="10000" step="0.01" placeholder="Parte comestível, sem casca"></label>
+    </div><div class="acoes"><button class="btn btn-success px-4 py-2" type="submit">Cadastrar alimento</button></div><p id="alimento-status" role="status"></p></form>
+  </section>
+  <p id="mensagem" role="status" aria-live="polite"></p>
+  <section class="card shadow-sm p-3 p-md-4 my-4"><h2>Refeições registradas</h2><div class="table-responsive"><table class="table table-hover align-middle mb-0"><thead><tr><th>Refeição</th><th>Horário</th><th>kcal</th><th>Proteínas</th><th>Carboidratos</th><th>Gorduras</th><th>Ação</th></tr></thead><tbody id="lista"></tbody></table></div></section>
+  <p><small>Dados salvos neste servidor. Protótipo para uso local, sem contas de usuário. Valores nutricionais da TBCA ou informados nos cadastros manuais.</small></p>
+</main>
+<script>
+const dia = document.querySelector('#dia'), form = document.querySelector('#formulario'), mensagem = document.querySelector('#mensagem');
+const campos = ['calorias','proteinas','carboidratos','gorduras'];
+const nomes = ['Calorias · kcal','Proteínas · g','Carboidratos · g','Gorduras · g'];
+const agora = new Date();
+dia.value = `${agora.getFullYear()}-${String(agora.getMonth()+1).padStart(2,'0')}-${String(agora.getDate()).padStart(2,'0')}`;
+const numero = n => Number(n).toLocaleString('pt-BR', {maximumFractionDigits:2});
+async function api(url, options) {
+  const resposta = await fetch(url, options);
+  if (!resposta.ok) {
+    const erro = await resposta.json();
+    throw new Error(typeof erro.detail === 'string' ? erro.detail : 'Confira os campos preenchidos e tente novamente.');
+  }
+  return resposta.status === 204 ? null : resposta.json();
+}
+let consulta = 0;
+async function atualizar() {
+  const atual = ++consulta;
+  try {
+    if (!dia.value) throw new Error('Selecione uma data.');
+    const query = '?data=' + encodeURIComponent(dia.value);
+    const [resumo, refeicoes] = await Promise.all([api('/resumo-diario'+query), api('/refeicoes'+query)]);
+    if (atual !== consulta) return;
+    document.querySelector('#totais').replaceChildren(...campos.map((campo,i) => {
+      const div = document.createElement('div'); div.className='total';
+      const strong = document.createElement('strong'); strong.textContent=numero(resumo[campo]);
+      div.append(nomes[i],strong); return div;
+    }));
+    document.querySelector('#contagem').textContent = `${resumo.quantidade_refeicoes} refeição(ões) neste dia`;
+    const lista = document.querySelector('#lista'); lista.replaceChildren();
+    if (!refeicoes.length) { const td=document.createElement('td');td.colSpan=7;td.textContent='Nenhuma refeição ainda. Adicione a primeira acima.';const tr=document.createElement('tr');tr.append(td);lista.append(tr); }
+    for (const r of refeicoes) {
+      const tr=document.createElement('tr');
+      for (const valor of [r.nome,r.horario.slice(0,5),...campos.map(c=>numero(r[c]))]) {const td=document.createElement('td');td.textContent=valor;tr.append(td);}
+      const detalhes=document.createElement('small');detalhes.style.display='block';
+      detalhes.textContent=r.itens.length ? r.itens.map(i=>`${i.nome} (${descricaoQuantidade(i)})`).join(' · ') : 'Registro manual anterior';
+      tr.firstChild.append(detalhes);
+      const td=document.createElement('td'), btn=document.createElement('button');btn.textContent='Excluir';btn.className='btn btn-outline-secondary btn-sm';btn.setAttribute('aria-label',`Excluir ${r.nome}`);
+      btn.onclick=async()=>{btn.disabled=true;try {await api('/refeicoes/'+r.id,{method:'DELETE'});mensagem.textContent='Refeição excluída.';await atualizar();}catch(e){mensagem.textContent=e.message;btn.disabled=false;}};
+      td.append(btn);tr.append(td);lista.append(tr);
+    }
+  } catch(e) {if(atual===consulta){document.querySelector('#totais').replaceChildren();document.querySelector('#lista').replaceChildren();document.querySelector('#contagem').textContent='';mensagem.textContent=e.message;}}
+}
+dia.onchange=()=>{mensagem.textContent='';atualizar();};
+const busca=document.querySelector('#busca'), gramas=document.querySelector('#gramas');
+const medida=document.querySelector('#medida'), pesoUnidade=document.querySelector('#peso-unidade');
+let selecionado=null, itens=[], buscaAtual=0;
+function descricaoQuantidade(item) {
+  return item.quantidade_unidades != null ? `${numero(item.quantidade_unidades)} un. × ${numero(item.peso_unidade_gramas)} g = ${numero(item.quantidade_gramas)} g` : `${numero(item.quantidade_gramas)} g`;
+}
+function quantidadeAtual() {
+  if(!gramas.value || !gramas.checkValidity()) return null;
+  const quantidade=Number(gramas.value);
+  if(medida.value==='unidades') {
+    if(!pesoUnidade.value || !pesoUnidade.checkValidity()) return null;
+    const peso=Number(pesoUnidade.value), total=quantidade*peso;
+    return total>0 && total<=10000 ? {quantidade_gramas:total,quantidade_unidades:quantidade,peso_unidade_gramas:peso} : null;
+  }
+  return quantidade>0 ? {quantidade_gramas:quantidade} : null;
+}
+function configurarMedida() {
+  const unidades=medida.value==='unidades';
+  document.querySelector('#peso-label').hidden=!unidades;
+  pesoUnidade.disabled=!unidades;
+  document.querySelector('#quantidade-label').textContent=unidades?'Quantidade (unidades)':'Quantidade (g)';
+  document.querySelector('#medida-ajuda').textContent=unidades ? 'Peso estimado da parte comestível de uma unidade. Ajuste ao tamanho consumido, sem casca ou partes descartadas. Aceita frações (ex.: 0,5).' : 'Informe o peso da parte comestível.';
+  mostrarPrevia();
+}
+medida.onchange=()=>{gramas.value=medida.value==='unidades'?'1':'100';configurarMedida();};
+pesoUnidade.oninput=()=>{pesoUnidade.setCustomValidity('');mostrarPrevia();};
+const resumoTexto = valores => campos.map((c,i)=>`${numero(valores[c])} ${i===0?'kcal': 'g '+['','proteínas','carboidratos','gorduras'][i]}`).join(' · ');
+function valoresItem(alimento, quantidade) {return Object.fromEntries(campos.map(c=>[c, alimento[c]*quantidade/100]));}
+function mostrarPrevia() {
+  const quantidade=quantidadeAtual(), valido=selecionado && quantidade;
+  document.querySelector('#adicionar').disabled=!valido;
+  document.querySelector('#previa').textContent=valido ? `${descricaoQuantidade(quantidade)} — ${resumoTexto(valoresItem(selecionado,quantidade.quantidade_gramas))}` : '';
+}
+gramas.oninput=mostrarPrevia;
+function selecionar(alimento) {
+  document.querySelectorAll('.food-option').forEach(btn=>{const ativo=btn.dataset.id===String(alimento.id);btn.classList.toggle('active',ativo);btn.setAttribute('aria-pressed',String(ativo));});
+  selecionado=alimento;
+  pesoUnidade.value=alimento.peso_unidade_gramas ?? '';
+  medida.value=alimento.peso_unidade_gramas?'unidades':'gramas';
+  gramas.value=alimento.peso_unidade_gramas?'1':'100';
+  configurarMedida();
+  const label=document.querySelector('#selecionado');label.textContent=`Selecionado: ${alimento.nome}`;
+  if(alimento.fonte==='TBCA' && alimento.url_fonte?.startsWith('https://www.tbca.net.br/')) {
+    const a=document.createElement('a');a.href=alimento.url_fonte;a.target='_blank';a.rel='noopener';a.textContent=` · Fonte TBCA ${alimento.codigo_fonte}`;label.append(a);
+  }
+  mostrarPrevia();
+}
+async function pesquisar() {
+  const atual=++buscaAtual, resultados=document.querySelector('#resultados');
+  resultados.textContent='Buscando…';
+  try {
+    const alimentos=await api('/alimentos?busca='+encodeURIComponent(busca.value));
+    if(atual!==buscaAtual) return;
+    resultados.replaceChildren();
+    if(!alimentos.length) resultados.textContent='Nenhum alimento encontrado. Cadastre um alimento abaixo para começar.';
+    for(const alimento of alimentos) {
+      const btn=document.createElement('button');btn.type='button';btn.className='btn btn-outline-success food-option';
+      btn.dataset.id=alimento.id;btn.setAttribute('aria-pressed',String(selecionado?.id===alimento.id));btn.classList.toggle('active',selecionado?.id===alimento.id);
+      btn.textContent=`${alimento.nome} · ${numero(alimento.calorias)} kcal/100 g`;btn.onclick=()=>selecionar(alimento);resultados.append(btn);
+    }
+  }catch(e){if(atual===buscaAtual) resultados.textContent=e.message;}
+}
+busca.oninput=()=>{selecionado=null;medida.value='gramas';pesoUnidade.value='';configurarMedida();document.querySelector('#selecionado').textContent='Nenhum alimento selecionado.';mostrarPrevia();pesquisar();};
+function renderItens() {
+  const lista=document.querySelector('#itens');lista.replaceChildren();
+  const totais=Object.fromEntries(campos.map(c=>[c,0]));
+  itens.forEach((item,indice)=>{
+    const valores=valoresItem(item.alimento,item.quantidade_gramas);
+    for(const c of campos) totais[c]+=valores[c];
+    const li=document.createElement('li');li.className='list-group-item d-flex flex-wrap align-items-center justify-content-between gap-2 px-0 py-3';
+    li.textContent=`${item.alimento.nome} · ${descricaoQuantidade(item)} — ${resumoTexto(valores)} `;
+    const btn=document.createElement('button');btn.type='button';btn.className='btn btn-outline-secondary btn-sm';btn.textContent='Remover';btn.setAttribute('aria-label',`Remover ${item.alimento.nome}`);
+    btn.onclick=()=>{itens.splice(indice,1);renderItens();};li.append(btn);lista.append(li);
+  });
+  document.querySelector('#subtotal').textContent='Total da refeição: '+resumoTexto(totais);
+  document.querySelector('#salvar').disabled=itens.length===0;
+}
+document.querySelector('#adicionar').onclick=()=>{
+  const quantidade=quantidadeAtual();
+  if(!selecionado || !quantidade) return;
+  if(itens.length>=100){mensagem.textContent='Limite de 100 itens por refeição.';return;}
+  itens.push({alimento:selecionado,...quantidade});renderItens();
+};
+const alimentoForm=document.querySelector('#alimento-form');
+alimentoForm.onsubmit=async(e)=>{
+  e.preventDefault();const btn=alimentoForm.querySelector('button');btn.disabled=true;
+  const status=document.querySelector('#alimento-status');
+  try {
+    const dados=Object.fromEntries(new FormData(alimentoForm));for(const c of campos) dados[c]=Number(dados[c]);
+    dados.peso_unidade_gramas=dados.peso_unidade_gramas?Number(dados.peso_unidade_gramas):null;
+    const alimento=await api('/alimentos',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(dados)});
+    alimentoForm.reset();busca.value=alimento.nome;selecionar(alimento);await pesquisar();
+    status.textContent='Alimento cadastrado e selecionado. Informe a quantidade acima e adicione à refeição.';
+  }catch(e){status.textContent=e.message;}finally{btn.disabled=false;}
+};
+form.onsubmit=async(e)=>{
+  e.preventDefault();const btn=document.querySelector('#salvar');btn.disabled=true;
+  try {
+    if(!dia.value) throw new Error('Selecione uma data.');
+    if(!itens.length) throw new Error('Adicione pelo menos um alimento.');
+    const dados={nome:form.elements.namedItem('nome').value,horario:form.elements.namedItem('horario').value,data:dia.value,
+      itens:itens.map(i=>({alimento_id:i.alimento.id,...(i.quantidade_unidades != null ? {quantidade_unidades:i.quantidade_unidades,peso_unidade_gramas:i.peso_unidade_gramas} : {quantidade_gramas:i.quantidade_gramas})}))};
+    await api('/refeicoes',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(dados)});
+    itens=[];renderItens();mensagem.textContent='Refeição salva com seus alimentos.';await atualizar();
+  }catch(e){mensagem.textContent=e.message;}finally{btn.disabled=itens.length===0;}
+};
+configurarMedida();renderItens();pesquisar();atualizar();
+</script>
+</body>
+</html>

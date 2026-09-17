@@ -1,0 +1,477 @@
+[
+  {
+    "codigo": "BRC0016A",
+    "nome": "Arroz, integral, cozido, s/ óleo, s/ sal, Brasil",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=xUx7kaGWvtxyEPd9EX4wAg%3D%3D",
+    "calorias": 108.0,
+    "carboidratos": 23.5,
+    "proteinas": 2.44,
+    "gorduras": 0.87,
+    "valores_originais": {
+      "calorias": "108",
+      "carboidratos": "23,5",
+      "proteinas": "2,44",
+      "gorduras": "0,87"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:35.893772+00:00"
+  },
+  {
+    "codigo": "BRC0208A",
+    "nome": "Arroz, polido, cozido, c/ óleo de soja, cebola e alho, s/ sal, Brasil",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=qtqOHQ4EkR82Z0oZf8AKdA%3D%3D",
+    "calorias": 138.0,
+    "carboidratos": 29.2,
+    "proteinas": 2.41,
+    "gorduras": 1.6,
+    "valores_originais": {
+      "calorias": "138",
+      "carboidratos": "29,2",
+      "proteinas": "2,41",
+      "gorduras": "1,60"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:36.360951+00:00"
+  },
+  {
+    "codigo": "BRC0001T",
+    "nome": "Feijão, carioca, cozido (50% grão e 50% caldo), s/ óleo, s/ sal, Brasil",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=pIqRrKBm8h1amgooDYSLHw%3D%3D",
+    "calorias": 71.0,
+    "carboidratos": 15.3,
+    "proteinas": 4.77,
+    "gorduras": 0.54,
+    "valores_originais": {
+      "calorias": "71",
+      "carboidratos": "15,3",
+      "proteinas": "4,77",
+      "gorduras": "0,54"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:36.830832+00:00"
+  },
+  {
+    "codigo": "BRC0254T",
+    "nome": "Feijão, carioca, cozido, drenado, s/ óleo, s/ sal, Brasil",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=DImWry2bYhAQuCdJPkzkeQ%3D%3D",
+    "calorias": 133.0,
+    "carboidratos": 26.3,
+    "proteinas": 9.61,
+    "gorduras": 0.81,
+    "valores_originais": {
+      "calorias": "133",
+      "carboidratos": "26,3",
+      "proteinas": "9,61",
+      "gorduras": "0,81"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:37.288460+00:00"
+  },
+  {
+    "codigo": "BRC0008T",
+    "nome": "Feijão, preto, cozido (50% grão e 50% caldo), s/ óleo, s/ sal, Brasil",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=2IXAgzFwNLDYhSUsIuzR%2FQ%3D%3D",
+    "calorias": 62.0,
+    "carboidratos": 14.0,
+    "proteinas": 4.48,
+    "gorduras": 0.54,
+    "valores_originais": {
+      "calorias": "62",
+      "carboidratos": "14,0",
+      "proteinas": "4,48",
+      "gorduras": "0,54"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:37.768641+00:00"
+  },
+  {
+    "codigo": "BRC0018T",
+    "nome": "Lentilha, cozida, drenada, s/ óleo, s/ sal, Brasil",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=tvDyZHPt6vjZm%2FNdOVIQVw%3D%3D",
+    "calorias": 99.0,
+    "carboidratos": 19.6,
+    "proteinas": 7.3,
+    "gorduras": 0.46,
+    "valores_originais": {
+      "calorias": "99",
+      "carboidratos": "19,6",
+      "proteinas": "7,30",
+      "gorduras": "0,46"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:38.234969+00:00"
+  },
+  {
+    "codigo": "BRC0024A",
+    "nome": "Aveia, flocos, finos, Brasil",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=bP3l70deMwVISrW6JYIzPg%3D%3D",
+    "calorias": 379.0,
+    "carboidratos": 64.5,
+    "proteinas": 15.6,
+    "gorduras": 8.6,
+    "valores_originais": {
+      "calorias": "379",
+      "carboidratos": "64,5",
+      "proteinas": "15,6",
+      "gorduras": "8,60"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:38.704412+00:00"
+  },
+  {
+    "codigo": "BRC0155A",
+    "nome": "Pão, integral, c/ farinha de trigo refinada, forma, Brasil (média de diferentes marcas)",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=7aUwICmcKE%2B%2BMkGvHIBK0Q%3D%3D",
+    "calorias": 249.0,
+    "carboidratos": 48.6,
+    "proteinas": 10.5,
+    "gorduras": 2.55,
+    "valores_originais": {
+      "calorias": "249",
+      "carboidratos": "48,6",
+      "proteinas": "10,5",
+      "gorduras": "2,55"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:39.172029+00:00"
+  },
+  {
+    "codigo": "BRC0042B",
+    "nome": "Batata, doce, s/ casca, cozida, drenada, s/ óleo, s/ sal, Brasil",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=VQrZUXo%2BQv4hfrzitgAJbQ%3D%3D",
+    "calorias": 92.0,
+    "carboidratos": 23.1,
+    "proteinas": 0.85,
+    "gorduras": 0.18,
+    "valores_originais": {
+      "calorias": "92",
+      "carboidratos": "23,1",
+      "proteinas": "0,85",
+      "gorduras": "0,18"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:39.634380+00:00"
+  },
+  {
+    "codigo": "BRC0114F",
+    "nome": "Carne, frango, peito, s/ pele, grelhada, s/ óleo, s/ sal, Brasil",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=DP42TQ4ecxn47Ihwru2%2FQw%3D%3D",
+    "calorias": 150.0,
+    "carboidratos": 0.0,
+    "proteinas": 32.1,
+    "gorduras": 2.45,
+    "valores_originais": {
+      "calorias": "150",
+      "carboidratos": "0,00",
+      "proteinas": "32,1",
+      "gorduras": "2,45"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:40.089357+00:00"
+  },
+  {
+    "codigo": "BRC0010J",
+    "nome": "Ovo, galinha, inteiro, cozido, s/ sal, Brasil (média de várias amostras)",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=eLfu6UDeKVunpDwry%2FKA1A%3D%3D",
+    "calorias": 125.0,
+    "carboidratos": 1.38,
+    "proteinas": 10.4,
+    "gorduras": 8.7,
+    "valores_originais": {
+      "calorias": "125",
+      "carboidratos": "1,38",
+      "proteinas": "10,4",
+      "gorduras": "8,70"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:40.553771+00:00"
+  },
+  {
+    "codigo": "BRC0486E",
+    "nome": "Peixe, água doce, Tilápia, filé s/ pele, grelhado, s/ óleo, s/ sal, Brasil",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=gVVgPpqONC1c0ccxdD1jJQ%3D%3D",
+    "calorias": 90.0,
+    "carboidratos": 0.0,
+    "proteinas": 18.5,
+    "gorduras": 1.73,
+    "valores_originais": {
+      "calorias": "90",
+      "carboidratos": "0,00",
+      "proteinas": "18,5",
+      "gorduras": "1,73"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:41.005727+00:00"
+  },
+  {
+    "codigo": "BRC0044G",
+    "nome": "Leite, vaca, integral, fluído, UHT, Brasil (média de diferentes amostras)",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=qQZaSyea0xFzF6Wq279NzQ%3D%3D",
+    "calorias": 65.0,
+    "carboidratos": 7.16,
+    "proteinas": 2.35,
+    "gorduras": 3.04,
+    "valores_originais": {
+      "calorias": "65",
+      "carboidratos": "7,16",
+      "proteinas": "2,35",
+      "gorduras": "3,04"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:41.472879+00:00"
+  },
+  {
+    "codigo": "BRC0020G",
+    "nome": "Iogurte, natural, Brasil (média de diferentes amostras)",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=%2F%2BWDsZRcTIQKSS%2FOarmRAw%3D%3D",
+    "calorias": 57.0,
+    "carboidratos": 4.76,
+    "proteinas": 4.02,
+    "gorduras": 2.43,
+    "valores_originais": {
+      "calorias": "57",
+      "carboidratos": "4,76",
+      "proteinas": "4,02",
+      "gorduras": "2,43"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:41.951110+00:00"
+  },
+  {
+    "codigo": "BRC0011C",
+    "nome": "Banana, prata, in natura, Brasil",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=2TForHUFkQoNZIv4AIRJVA%3D%3D",
+    "calorias": 107.0,
+    "carboidratos": 25.9,
+    "proteinas": 1.11,
+    "gorduras": 0.28,
+    "valores_originais": {
+      "calorias": "107",
+      "carboidratos": "25,9",
+      "proteinas": "1,11",
+      "gorduras": "0,28"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:42.425146+00:00"
+  },
+  {
+    "codigo": "BRC0020C",
+    "nome": "Laranja, Pera, in natura, Brasil",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=XYjI%2FfkZDOQ%2FtRn1x1N8tQ%3D%3D",
+    "calorias": 37.0,
+    "carboidratos": 8.63,
+    "proteinas": 0.87,
+    "gorduras": 0.21,
+    "valores_originais": {
+      "calorias": "37",
+      "carboidratos": "8,63",
+      "proteinas": "0,87",
+      "gorduras": "0,21"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:43.335074+00:00"
+  },
+  {
+    "codigo": "BRC0045C",
+    "nome": "Mamão, Formosa, polpa, in natura, Brasil",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=N%2BgREPajSjWOCcTNi5hX7g%3D%3D",
+    "calorias": 47.0,
+    "carboidratos": 11.6,
+    "proteinas": 0.82,
+    "gorduras": 0.12,
+    "valores_originais": {
+      "calorias": "47",
+      "carboidratos": "11,6",
+      "proteinas": "0,82",
+      "gorduras": "0,12"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:43.787794+00:00"
+  },
+  {
+    "codigo": "BRC0045B",
+    "nome": "Brócolis, flor, cozido, drenado, s/ óleo, s/ sal, Brasil",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=GZzu8FRyInu2h2jsgc8xrQ%3D%3D",
+    "calorias": 27.0,
+    "carboidratos": 4.44,
+    "proteinas": 2.71,
+    "gorduras": 0.54,
+    "valores_originais": {
+      "calorias": "27",
+      "carboidratos": "4,44",
+      "proteinas": "2,71",
+      "gorduras": "0,54"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:44.233272+00:00"
+  },
+  {
+    "codigo": "BRC0020B",
+    "nome": "Cenoura, s/ casca, crua, Brasil",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=Enkb319hE39lkBlQ653LNQ%3D%3D",
+    "calorias": 31.0,
+    "carboidratos": 7.55,
+    "proteinas": 1.12,
+    "gorduras": 0.21,
+    "valores_originais": {
+      "calorias": "31",
+      "carboidratos": "7,55",
+      "proteinas": "1,12",
+      "gorduras": "0,21"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:44.688292+00:00"
+  },
+  {
+    "codigo": "BRC0047B",
+    "nome": "Cenoura, s/ casca, cozida, drenada, s/ óleo, s/ sal, Brasil",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=358%2FC7NbFriqEFLbs4LQlA%3D%3D",
+    "calorias": 17.0,
+    "carboidratos": 4.31,
+    "proteinas": 0.54,
+    "gorduras": 0.2,
+    "valores_originais": {
+      "calorias": "17",
+      "carboidratos": "4,31",
+      "proteinas": "0,54",
+      "gorduras": "0,20"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:45.143719+00:00"
+  },
+  {
+    "codigo": "BRC0035B",
+    "nome": "Tomate, cru, Brasil",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=0qP6TPuuLlp52oyveljmug%3D%3D",
+    "calorias": 18.0,
+    "carboidratos": 3.82,
+    "proteinas": 1.04,
+    "gorduras": 0.17,
+    "valores_originais": {
+      "calorias": "18",
+      "carboidratos": "3,82",
+      "proteinas": "1,04",
+      "gorduras": "0,17"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:45.597110+00:00"
+  },
+  {
+    "codigo": "BRC0060B",
+    "nome": "Alface, crespa, crua, brasil",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=SlDKZ7oxgL%2FyOINmk8OR5A%3D%3D",
+    "calorias": 10.0,
+    "carboidratos": 1.7,
+    "proteinas": 1.35,
+    "gorduras": 0.16,
+    "valores_originais": {
+      "calorias": "10",
+      "carboidratos": "1,70",
+      "proteinas": "1,35",
+      "gorduras": "0,16"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:46.046570+00:00"
+  },
+  {
+    "codigo": "BRC0002D",
+    "nome": "Azeite, oliva, Brasil",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=w7W2G%2BufgdZTOD9pMqaihw%3D%3D",
+    "calorias": 900.0,
+    "carboidratos": 0.0,
+    "proteinas": 0.0,
+    "gorduras": 100.0,
+    "valores_originais": {
+      "calorias": "900",
+      "carboidratos": "0,00",
+      "proteinas": "0,00",
+      "gorduras": "100,0"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:46.525727+00:00"
+  },
+  {
+    "codigo": "BRC0003U",
+    "nome": "Castanha-do-brasil, crua, Brasil",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=LmAv8bwWhrrQVHk6itA03w%3D%3D",
+    "calorias": 674.0,
+    "carboidratos": 15.1,
+    "proteinas": 14.5,
+    "gorduras": 63.5,
+    "valores_originais": {
+      "calorias": "674",
+      "carboidratos": "15,1",
+      "proteinas": "14,5",
+      "gorduras": "63,5"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:46.978338+00:00"
+  },
+  {
+    "codigo": "BRC0001C",
+    "nome": "Abacate, polpa, in natura, Brasil",
+    "url": "https://www.tbca.net.br/base-dados/int_composicao_alimentos.php?n0REd3kv7e86D%2BViXWYUnQ%3D%3D=QagWPGGLCefQ%2BGqdjKbs2w%3D%3D",
+    "calorias": 76.0,
+    "carboidratos": 5.84,
+    "proteinas": 1.15,
+    "gorduras": 6.21,
+    "valores_originais": {
+      "calorias": "76",
+      "carboidratos": "5,84",
+      "proteinas": "1,15",
+      "gorduras": "6,21"
+    },
+    "base_gramas": 100,
+    "carboidratos_tipo": "Carboidrato total",
+    "fonte": "TBCA",
+    "coletado_em": "2026-09-17T01:29:47.468030+00:00"
+  }
+]
