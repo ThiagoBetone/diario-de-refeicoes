@@ -47,8 +47,47 @@
     <div><small class="text-uppercase fw-semibold" style="letter-spacing:2px">Meu diário alimentar</small><h1 class="mt-2 mb-2">Um dia de cada vez.</h1><p class="mb-0">Suas refeições, seus alimentos e tudo o que você consumiu.</p></div>
     <a href="/docs" class="btn btn-outline-light flex-shrink-0 align-self-start align-self-md-center">Explorar a API ↗</a>
   </header>
+  <div class="nav nav-tabs mb-4" role="tablist" aria-label="Seções do diário">
+    <button class="nav-link active" id="aba-diario" role="tab" aria-selected="true" aria-controls="painel-diario" type="button">Diário</button>
+    <button class="nav-link" id="aba-evolucao" role="tab" aria-selected="false" aria-controls="painel-evolucao" tabindex="-1" type="button">Evolução</button>
+  </div>
+  <div id="painel-diario" role="tabpanel" aria-labelledby="aba-diario">
   <label style="max-width:220px">Dia consultado<input class="form-control" id="dia" type="date" required></label>
   <section class="card shadow-sm p-3 p-md-4 my-4" aria-label="Resumo diário"><div class="d-flex justify-content-between align-items-center mb-3"><h2 class="mb-0">Seu resumo do dia</h2><span class="badge rounded-pill text-bg-light border">Consumo registrado</span></div><div class="totais" id="totais"></div><p class="text-body-secondary small mt-3 mb-0" id="contagem"></p></section>
+  <section class="card shadow-sm p-3 p-md-4 my-4" aria-labelledby="energia-titulo">
+    <h2 id="energia-titulo">Calorias consumidas × referência basal</h2>
+    <p class="text-body-secondary">Comparação para o dia selecionado: <strong id="energia-dia"></strong>. TMB estimada pela fórmula de Mifflin–St Jeor.</p>
+    <p class="small">A fórmula estima o gasto em repouso de adultos. TMB + treinos não representa todo o gasto diário: não inclui digestão e outras atividades. Esta referência não é uma recomendação de ingestão.</p>
+    <div id="energia-grafico" aria-label="Gráfico comparativo de calorias" aria-live="polite"></div>
+    <p id="energia-comparacao" class="mt-3 mb-1"></p>
+    <p id="energia-aviso" role="status" class="text-body-secondary small"></p>
+    <details class="border rounded-3 p-3 mt-3" id="perfil-detalhes">
+      <summary class="fw-semibold">Meu perfil · calcular taxa metabólica basal</summary>
+      <p class="small mt-3">Preencha seus dados e a data a partir da qual devem valer. Ao salvar novamente com a mesma data, você corrige esse registro.</p>
+      <form id="perfil-form">
+        <div class="campos">
+          <label>Idade (anos)<input class="form-control" name="idade" type="number" min="18" max="100" step="1" required></label>
+          <label>Peso (kg)<input class="form-control" name="peso_kg" type="number" min="20" max="400" step="0.01" required></label>
+          <label>Altura (cm)<input class="form-control" name="altura_cm" type="number" min="100" max="250" step="0.1" required></label>
+          <label>Sexo usado na fórmula<select class="form-select" name="sexo_formula" required><option value="">Selecione</option><option value="masculino">Masculino (+5)</option><option value="feminino">Feminino (−161)</option></select></label>
+          <label>Válido a partir de<input class="form-control" name="vigente_desde" type="date" required></label>
+        </div>
+        <button class="btn btn-success mt-3" type="submit">Calcular e salvar meu perfil</button>
+        <p id="perfil-status" role="status" class="mt-2 mb-0"></p>
+      </form>
+      <p class="small mt-3 mb-0">Equação: 10 × peso (kg) + 6,25 × altura (cm) − 5 × idade + ajuste. <a href="https://pubmed.ncbi.nlm.nih.gov/2305711/" target="_blank" rel="noopener">Fonte: Mifflin et al., 1990</a>.</p>
+    </details>
+    <details class="border rounded-3 p-3 mt-3" open>
+      <summary class="fw-semibold">Treinos do dia</summary>
+      <p class="small mt-3">Informe as calorias ativas estimadas pelo relógio ou aparelho, sem incluir o repouso. Você pode registrar mais de um treino no dia selecionado.</p>
+      <form id="treino-form"><div class="campos">
+        <label>Treino<input class="form-control" name="nome" maxlength="120" placeholder="Ex.: corrida" required></label>
+        <label>Calorias ativas (kcal)<input class="form-control" name="calorias" type="number" min="0.01" max="10000" step="0.01" required></label>
+      </div><button type="submit" class="btn btn-outline-success mt-3">Registrar treino</button></form>
+      <p id="treino-status" role="status" class="mt-2"></p>
+      <ul id="treinos-lista" class="list-group list-group-flush mt-3"></ul>
+    </details>
+  </section>
   <section class="card shadow-sm p-3 p-md-4 my-4"><h2>Montar refeição</h2><p>Escolha os alimentos do catálogo e informe gramas ou unidades consumidas. Os nutrientes são calculados automaticamente.</p>
     <form id="formulario"><div class="campos">
       <label>Tipo de refeição<input class="form-control" name="nome" list="tipos" maxlength="120" value="Café da manhã" required></label>
@@ -80,6 +119,35 @@
   <p id="mensagem" role="status" aria-live="polite"></p>
   <section class="card shadow-sm p-3 p-md-4 my-4"><h2>Refeições registradas</h2><div class="table-responsive"><table class="table table-hover align-middle mb-0"><thead><tr><th>Refeição</th><th>Horário</th><th>kcal</th><th>Proteínas</th><th>Carboidratos</th><th>Gorduras</th><th>Ação</th></tr></thead><tbody id="lista"></tbody></table></div></section>
   <p><small>Dados salvos neste servidor. Protótipo para uso local, sem contas de usuário. Valores nutricionais da TBCA ou informados nos cadastros manuais.</small></p>
+  </div>
+  <div id="painel-evolucao" role="tabpanel" aria-labelledby="aba-evolucao" hidden>
+    <section class="card shadow-sm p-3 p-md-4 my-4">
+      <h2>Minha evolução · peso e cintura</h2>
+      <p>Medidas do seu perfil pessoal. Salvar na mesma data substitui o registro daquele dia. A TMB continua sendo recalculada em Meu perfil, na aba Diário.</p>
+      <form id="medidas-form"><div class="campos">
+        <label>Data da medição<input class="form-control" name="data" type="date" required></label>
+        <label>Peso (kg)<input class="form-control" name="peso_kg" type="number" min="20" max="400" step="0.01"></label>
+        <label>Cintura (cm)<input class="form-control" name="cintura_cm" type="number" min="30" max="300" step="0.1"></label>
+      </div><button class="btn btn-success mt-3" type="submit">Salvar medidas</button></form>
+      <p id="medidas-status" class="mt-2" role="status"></p>
+      <p id="medidas-variacao" class="fw-semibold"></p>
+      <div class="table-responsive"><table class="table"><thead><tr><th>Data</th><th>Peso (kg)</th><th>Cintura (cm)</th><th>Ação</th></tr></thead><tbody id="medidas-lista"></tbody></table></div>
+    </section>
+    <section class="card shadow-sm p-3 p-md-4 my-4">
+      <h2>Linha do tempo · calorias por dia</h2>
+      <p>Azul: consumo registrado. Roxo: gasto de referência (TMB do dia + treinos). Verde tracejado: TMB atual, como linha horizontal de comparação.</p>
+      <p class="small">O saldo usa a TMB vigente em cada dia. Déficit e superávit abaixo são relativos a essa referência parcial, que não inclui digestão e atividades cotidianas. Refeições não registradas deixam o consumo incompleto.</p>
+      <details class="border rounded-3 p-3 mb-3">
+        <summary class="fw-semibold">Escolher refeições para excluir do gráfico</summary>
+        <p class="small mt-2">Marque as refeições que deseja desconsiderar na evolução. A seleção fica salva e também altera o saldo da tabela abaixo. Os registros e totais da aba Diário são preservados. Desmarque para incluir novamente.</p>
+        <p id="refeicoes-filtro-status" role="status"></p>
+        <div id="refeicoes-filtro" class="overflow-auto" style="max-height:320px"></div>
+      </details>
+      <p id="evolucao-status" role="status"></p>
+      <div id="evolucao-grafico" class="overflow-auto"></div>
+      <div class="table-responsive"><table class="table"><thead><tr><th>Dia</th><th>Consumo (kcal)</th><th>TMB do dia</th><th>Treinos</th><th>Gasto de referência</th><th>Saldo (kcal)</th></tr></thead><tbody id="evolucao-lista"></tbody></table></div>
+    </section>
+  </div>
 </main>
 <script>
 const dia = document.querySelector('#dia'), form = document.querySelector('#formulario'), mensagem = document.querySelector('#mensagem');
@@ -98,6 +166,7 @@ async function api(url, options) {
 }
 let consulta = 0;
 async function atualizar() {
+  window.atualizarEnergia?.();
   const atual = ++consulta;
   try {
     if (!dia.value) throw new Error('Selecione uma data.');
@@ -233,5 +302,7 @@ form.onsubmit=async(e)=>{
 };
 configurarMedida();renderItens();pesquisar();atualizar();
 </script>
+<script src="/static/energia.js"></script>
+<script src="/static/evolucao.js"></script>
 </body>
 </html>

@@ -1,5 +1,80 @@
 # Diário de refeições — FastAPI
 
+## Aba Evolução
+
+Em **Escolher refeições para excluir do gráfico**, marque registros individuais
+para desconsiderá-los no consumo e saldo da evolução. Desmarque para restaurar.
+A preferência persiste no banco; o diário, suas refeições e o balanço diário
+original não são alterados. Um aviso identifica o filtro ativo. Se não houver
+refeições incluídas em uma data, o consumo e o saldo ficam sem comparação, em
+vez de indicar consumo zero. A TMB e os treinos continuam visíveis.
+API: `PUT /evolucao/refeicoes/{id}` com `{"excluida":true}` ou `false`.
+
+A aba **Evolução** reúne o histórico de peso e cintura do perfil pessoal e um
+gráfico de linhas por data. Cadastre primeiro o perfil na aba Diário. Informe
+uma data e pelo menos uma medida (peso em kg ou cintura em cm). O botão Editar
+preenche o formulário; salvar na mesma data substitui o registro, inclusive
+removendo a medida cujo campo ficar vazio. Os demais dias são preservados.
+A comparação de medidas usa a primeira e a última medição disponível de cada
+campo. Registrar medidas não recalcula automaticamente a TMB: use Meu perfil
+para salvar um novo cálculo com a data em que deve começar a valer.
+
+O gráfico inclui cada data com refeições ou treinos, em ordem cronológica,
+com espaçamento proporcional ao tempo. Azul representa calorias consumidas;
+roxo, TMB vigente naquele dia + calorias ativas dos treinos. A linha verde
+tracejada é horizontal e usa a TMB vigente hoje. A tabela mostra o saldo diário:
+consumo menos gasto de referência (negativo = déficit, positivo = superávit).
+Essa classificação é relativa à referência parcial, não ao gasto energético
+total. Não há classificação quando falta perfil ou consumo registrado. Dias
+sem registros não são preenchidos com zero; registros alimentares parciais
+continuam refletindo apenas o que foi informado.
+
+Rotas: `GET /perfil/medidas`, `PUT /perfil/medidas` e `GET /evolucao`.
+Medidas são armazenadas em `medidas_pessoais`, associadas ao perfil pessoal 1.
+Esta versão continua sendo individual e sem autenticação.
+
+```json
+{"data":"2026-09-30","peso_kg":80,"cintura_cm":90}
+```
+
+## Perfil pessoal, metabolismo basal e treinos
+
+Preencha idade (adultos), peso em kg, altura em cm, sexo utilizado na fórmula e
+data de início em **Meu perfil · calcular taxa metabólica basal**. Os dados ficam
+no SQLite local. Há um único perfil pessoal, com versões por data, sem login.
+Salvar a mesma data corrige aquela versão; uma nova data mantém as anteriores.
+Idade e medidas são as informadas no cálculo, sem atualização automática.
+
+A estimativa usa Mifflin–St Jeor: `10 × kg + 6,25 × cm − 5 × idade + ajuste`,
+com ajuste `+5` masculino ou `−161` feminino. Essa equação estima gasto em repouso;
+não é medição clínica da TMB nem recomendação de ingestão.
+[Artigo original](https://pubmed.ncbi.nlm.nih.gov/2305711/).
+
+Selecione um dia e registre as **calorias ativas** de cada treino, estimadas por
+seu aparelho ou relógio. Não inclua novamente calorias de repouso. É possível
+excluir registros incorretos. O gráfico usa barras com a mesma escala, partindo
+de zero: consumo, TMB, treinos e TMB + treinos. TMB + treinos é uma referência
+parcial, pois não inclui digestão e demais atividades do cotidiano. As diferenças
+exibidas não equivalem ao déficit/superávit energético real.
+
+Rotas: `GET /perfil`, `PUT /perfil`, `POST /treinos`, `DELETE /treinos/{id}` e
+`GET /balanco-diario?data=AAAA-MM-DD`. O balanço usa o perfil mais recente cuja
+data de início seja anterior ou igual ao dia consultado. Sem perfil válido,
+referência e diferenças são `null`; consumo e treinos continuam disponíveis.
+Treinos e perfis são armazenados separadamente das refeições existentes.
+
+Exemplo de corpo para `PUT /perfil` (dados ilustrativos):
+
+```json
+{"idade":30,"peso_kg":80,"altura_cm":180,"sexo_formula":"masculino","vigente_desde":"2026-09-17"}
+```
+
+Exemplo para `POST /treinos`:
+
+```json
+{"nome":"Corrida","data":"2026-09-17","calorias":300}
+```
+
 Versão 0.2 para uso local e individual: catálogo de alimentos, cadastro e exclusão de refeições,
 listagem por data e soma diária de calorias, proteínas, carboidratos e gorduras.
 Inclui uma página de demonstração e documentação interativa em `/docs`.

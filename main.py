@@ -12,6 +12,7 @@ from fastapi import FastAPI, HTTPException, Query, Response
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, ConfigDict, Field, model_validator
+from energia import preparar_energia, registrar_rotas_energia
 
 ROOT = Path(__file__).resolve().parent
 NUTRIENTES = ("calorias", "proteinas", "carboidratos", "gorduras")
@@ -148,6 +149,7 @@ def create_app(db_path: str | Path = ROOT / "refeicoes.db") -> FastAPI:
                 carboidratos REAL NOT NULL, gorduras REAL NOT NULL
             )""")
             preparar_catalogo(conn)
+            preparar_energia(conn)
         yield
 
     app = FastAPI(
@@ -157,6 +159,7 @@ def create_app(db_path: str | Path = ROOT / "refeicoes.db") -> FastAPI:
     )
 
     app.mount("/static", StaticFiles(directory=ROOT / "static"), name="static")
+    registrar_rotas_energia(app, conectar)
 
     @app.get("/", include_in_schema=False)
     def pagina():
